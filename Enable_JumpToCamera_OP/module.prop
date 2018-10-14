@@ -1,0 +1,7 @@
+id=EnbablelJump2CamOP
+name=Enable Jump to Camera for OnePlus
+version=1.0
+versionCode=1
+author=Arpan Bag
+description=This Mod enables double press power button to launch camera gesture, in case it is disabled by manufacturer and replaced with Emergency call.
+minMagisk=1500

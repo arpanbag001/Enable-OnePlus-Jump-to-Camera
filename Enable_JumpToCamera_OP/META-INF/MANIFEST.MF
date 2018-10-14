@@ -1,0 +1,2440 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/media/audio/media/audio/ringtones/oneplus_tune.ogg
+SHA1-Digest: ElDtjFQPH4wrwDEVFa/Wn7JXFgg=
+
+Name: system/media/audio/ringtones/quiet.ogg
+SHA1-Digest: +KO3ghNNlggiuNPkOvCH0vTKHQo=
+
+Name: system/media/audio/media/audio/ringtones/LeisureTime.ogg
+SHA1-Digest: PRtcTZfQhu+VNemkEAjwjLhqQxU=
+
+Name: system/media/audio/notifications/Spring.ogg
+SHA1-Digest: PZ4txeW+67VTz2yQeP7+2ltyYCM=
+
+Name: system/media/audio/media/audio/alarms/Mastic.flac
+SHA1-Digest: MbRA7L4DCLBIpOfNkrq6AJsCqnI=
+
+Name: system/media/audio/media/audio/ui/KeypressReturn.ogg
+SHA1-Digest: ZDEsR/zIeHXyg1hYqi2N0e3ceXI=
+
+Name: system/fonts/NotoSansLaoUI-Regular.ttf
+SHA1-Digest: SGl66MffzRSVqY6RWHk+rgWavjU=
+
+Name: system/fonts/NotoSansKharoshthi-Regular.ttf
+SHA1-Digest: +Gn26jmjuYnr+KlsBnyNiKVQ5lU=
+
+Name: system/fonts/RobotoCondensed-Medium.ttf
+SHA1-Digest: zSoHaeW6tCl1BlgVGJE1glSHSEU=
+
+Name: system/media/audio/media/audio/alarms/alarm_clock1.ogg
+SHA1-Digest: b/0or1ynaCkbhx+vdFFMFLYGCQg=
+
+Name: system/media/audio/notifications/Arc.flac
+SHA1-Digest: Con3mGAklW4lIqxNKpqG3imwjNY=
+
+Name: system/media/audio/alarms/ripple.ogg
+SHA1-Digest: 3g4Pcr8gBp1tY/I/XZCYrCaDDHg=
+
+Name: system/media/audio/media/audio/notifications/Grunting.ogg
+SHA1-Digest: 4WCPH1KnaOCfxRD77ypHzC3Jm6g=
+
+Name: system/fonts/Roboto-Black.ttf
+SHA1-Digest: WdoZZWxeDuJo4CTyuP6w3FaSpgE=
+
+Name: system/media/audio/media/audio/ringtones/gaiety.ogg
+SHA1-Digest: tnF2ZRpG8mLBCuCEFO/aPzCRNYQ=
+
+Name: system/fonts/NotoSansEthiopic-Regular.ttf
+SHA1-Digest: 3XFYDr3o3uoWWyvVC3mdZMSoLto=
+
+Name: system/media/audio/media/audio/notifications/Clank.ogg
+SHA1-Digest: 8bj46LIvea0R34sdB/mRu3JL7Dw=
+
+Name: system/media/audio/media/audio/notifications/CrystalPiano.ogg
+SHA1-Digest: UJJIFTXpFESIlwPRA6lVG2BSUZ8=
+
+Name: system/media/audio/notifications/surprise.ogg
+SHA1-Digest: d8OhwH7XRTZLYC0z5EXjRi4sEPY=
+
+Name: system/media/audio/notifications/twinkle.ogg
+SHA1-Digest: ym2u1C5hstM4AAt9ENIQoVR1Aj0=
+
+Name: system/media/audio/ringtones/IceWorldPiano.ogg
+SHA1-Digest: aeSzoI5zeUQyAhuKc2pxJP8e8LE=
+
+Name: system/fonts/NotoSansLepcha-Regular.ttf
+SHA1-Digest: Rxqm4yGHxYDkrq3n4I7gh/PDDOU=
+
+Name: system/media/audio/notifications/Arashiyama.ogg
+SHA1-Digest: whTGEwIv+0QN6OH5a8Aes4kzE1E=
+
+Name: system/media/audio/ringtones/MiXylophone.ogg
+SHA1-Digest: oMkPeED1BBltqPvrpAi7YQsYz+Q=
+
+Name: system/media/audio/ringtones/Shooting_star.ogg
+SHA1-Digest: Szt2U8acjmw5vdwzCdYQ/Ki+w6I=
+
+Name: system/media/audio/ringtones/GuitarPop.ogg
+SHA1-Digest: Ego/QshyOIm3P0e0Y+uEm38FYhg=
+
+Name: system/media/audio/media/audio/notifications/FadeIn.ogg
+SHA1-Digest: cR0OWVhfaAPJQ58vDlNOC80XYmI=
+
+Name: system/media/audio/alarms/alarm_clock1.ogg
+SHA1-Digest: b/0or1ynaCkbhx+vdFFMFLYGCQg=
+
+Name: system/media/audio/media/audio/ringtones/Sikkim.ogg
+SHA1-Digest: S1C+69Vl7y7sEmaaedKQT239zT8=
+
+Name: system/fonts/NotoSansLao-Bold.ttf
+SHA1-Digest: A4I9bHbMQo+XKLWcTn5JN2ToS4Y=
+
+Name: system/media/audio/media/audio/notifications/hallucination.ogg
+SHA1-Digest: DtdvdbVsXy+xIuY8iTSLyWwFjbs=
+
+Name: system/media/audio/ringtones/Ohrid.ogg
+SHA1-Digest: cVk2A7ACRzJKFjsl0vDokfMkYbE=
+
+Name: system/media/audio/media/audio/notifications/CrystalRing.ogg
+SHA1-Digest: vw2H8JReIt8tjcDxIowSSulgNxg=
+
+Name: system/fonts/NotoSansLisu-Regular.ttf
+SHA1-Digest: fYD30aolb31HDH31U3MSeY2Gyuc=
+
+Name: system/media/audio/media/audio/ringtones/Lost_and_found.ogg
+SHA1-Digest: pszRhtXDd1U6OsHgHjbZgHVRWUo=
+
+Name: system/media/audio/alarms/Rooster.ogg
+SHA1-Digest: jzFIq31/tjvlWPkUVr0Yv0rUYjo=
+
+Name: system/fonts/NotoSansPahawhHmong-Regular.otf
+SHA1-Digest: NSgi3oTpAl15tvWXhrqYiCe8BBM=
+
+Name: system/media/audio/media/audio/ringtones/GuitarPop.ogg
+SHA1-Digest: Ego/QshyOIm3P0e0Y+uEm38FYhg=
+
+Name: system/media/audio/media/audio/notifications/Ping.ogg
+SHA1-Digest: Fj9tgDsE8NltXLYrVbBvdcVliBw=
+
+Name: system/media/audio/media/audio/alarms/Wag.ogg
+SHA1-Digest: 7fcfFhXFt653otMrmMQYnsQWKfI=
+
+Name: system/fonts/NotoSansKhmer-VF.ttf
+SHA1-Digest: /G7b7iFcLMoPMKzaST1zoZ2p5Bk=
+
+Name: system/media/audio/notifications/Piska.ogg
+SHA1-Digest: JE+pZN9/3kVdGQa3+FRzLtg+8Dw=
+
+Name: system/media/audio/ringtones/Hue.flac
+SHA1-Digest: MakgHA6dSpDF49n6IxMXxcigdwI=
+
+Name: system/fonts/Roboto-LightItalic.ttf
+SHA1-Digest: aWn7uQetL8mN35lUEJuYx1J2k9I=
+
+Name: system/media/audio/alarms/MorningSun.ogg
+SHA1-Digest: nGOTZIL9NxHAe3ydhyds5BtsmmU=
+
+Name: system/media/audio/media/audio/notifications/trill.ogg
+SHA1-Digest: CebRCd/EffZ7Fncknl7hakH/GpU=
+
+Name: system/fonts/NotoSansOlChiki-Regular.ttf
+SHA1-Digest: nq6jr2CNFAMVEBocYgUwjFqXDmQ=
+
+Name: system/fonts/NotoSansNewTaiLue-Regular.ttf
+SHA1-Digest: ezwnuKn1Mrm4BJgOBXqi5Yb3yaA=
+
+Name: system/fonts/NotoSerif-Bold.ttf
+SHA1-Digest: 3s26tDFH2cqIYfW7AIwPoDBMZJM=
+
+Name: system/media/audio/media/audio/ui/NFCSuccess.ogg
+SHA1-Digest: cHfjdyjqSyqURbINabI4Whjxerg=
+
+Name: system/media/audio/media/audio/notifications/Taiga.ogg
+SHA1-Digest: gYFnn9r6GaG0GG3oJC3KZREaSRo=
+
+Name: system/fonts/NotoSansMongolian-Regular.ttf
+SHA1-Digest: tXgy8q3CNfHAaZJ+BuJYtXoRxUc=
+
+Name: system/media/audio/media/audio/ringtones/GuitarClassic.ogg
+SHA1-Digest: vA2EzvkbdPiSkkFyhVE7qZn2xUk=
+
+Name: system/media/audio/notifications/hallucination.ogg
+SHA1-Digest: DtdvdbVsXy+xIuY8iTSLyWwFjbs=
+
+Name: system/media/audio/media/audio/ringtones/Hatching.flac
+SHA1-Digest: qz0SIMgNST/L/MUHgat/8a44mLg=
+
+Name: system/media/audio/media/audio/ringtones/brisk.ogg
+SHA1-Digest: vWEXlMmaa+aSvSEN4fzN4eOZDsc=
+
+Name: system/media/audio/media/audio/alarms/alarm_clock2.ogg
+SHA1-Digest: sfEjenwVDSK2XxCXlq+cykl1JXQ=
+
+Name: system/media/audio/notifications/Diode.flac
+SHA1-Digest: j6yajB94rDWZ2tvWgESZ4QlpRLs=
+
+Name: system/media/audio/ringtones/Otway.ogg
+SHA1-Digest: S7HZuzRxC0K3SCEC9YmLI1KmDEw=
+
+Name: system/media/audio/media/audio/notifications/elegant.ogg
+SHA1-Digest: qngN4F9J+lzePoLXGkhX5qJ87ic=
+
+Name: config.sh
+SHA1-Digest: tQVDLsaQUdQBsfKxH8jr1IR0saM=
+
+Name: system/media/audio/media/audio/ui/audio_end.ogg
+SHA1-Digest: 8VXNgGIzPMny9vtmKAb2L4GPIzw=
+
+Name: system/media/audio/notifications/meet.ogg
+SHA1-Digest: AjS9QR6KqHoprSBDqbm49/7vWMQ=
+
+Name: system/fonts/NotoSansGurmukhiUI-Regular.ttf
+SHA1-Digest: GRL55Cz1M0PUzm58+7x9eOVhoKg=
+
+Name: system/media/audio/media/audio/ringtones/pyxis.ogg
+SHA1-Digest: nZhS56qlnv/OUjG5A8+4PwpYbMo=
+
+Name: system/media/audio/media/audio/ringtones/Inga.ogg
+SHA1-Digest: 7WmmebZW7E6a/N3ei+hv3rJjJsw=
+
+Name: system/media/audio/notifications/Sherwood.ogg
+SHA1-Digest: HXjBFofg1mMNCg7aJJG2uhap4uw=
+
+Name: system/media/audio/ringtones/fluent.ogg
+SHA1-Digest: LouGa9tqPhrwXga4M6yE+++2iOM=
+
+Name: system/fonts/RobotoCondensed-BoldItalic.ttf
+SHA1-Digest: OPXvqreEoc/t01LcW4v1biLYSUI=
+
+Name: system/media/audio/media/audio/ringtones/Caspian.ogg
+SHA1-Digest: sb52v74PkUZ/iKGZqEieqPVI3Is=
+
+Name: system/media/audio/ringtones/funky.ogg
+SHA1-Digest: 3vfouEi4QvhZlh2gKTt65zm4I+w=
+
+Name: system/fonts/Roboto-Italic.ttf
+SHA1-Digest: lZm+ppKBbm6SicaWINp71KWSsaI=
+
+Name: system/media/audio/alarms/alarm_clock2.ogg
+SHA1-Digest: sfEjenwVDSK2XxCXlq+cykl1JXQ=
+
+Name: system/fonts/NotoSansCham-Bold.ttf
+SHA1-Digest: sgo7pY99j4xxYzPsxNKcv+hBu+k=
+
+Name: system/media/audio/media/audio/notifications/spirit.ogg
+SHA1-Digest: oe5dqLRMaYnJaJaGsApNbnXdBSE=
+
+Name: system/media/audio/media/audio/alarms/Teleologic.flac
+SHA1-Digest: vK0nr7cGgtl6nMWwxsgL9lHpzTc=
+
+Name: system/media/audio/media/audio/ringtones/ToyRobot.ogg
+SHA1-Digest: BByW/iMvwLW8+6uZcJ1p0FTivDU=
+
+Name: system/media/audio/notifications/Nib.flac
+SHA1-Digest: ZD9x5rELaW3z+ZS+20DvgDqLkIY=
+
+Name: system/media/audio/media/audio/alarms/Early_twilight.ogg
+SHA1-Digest: ZIdDHd0Z8nLrW/StHNJvOt0QP/M=
+
+Name: system/media/audio/ringtones/Rhine.ogg
+SHA1-Digest: unkwNkN/1nMAtlfRqAdb4FOntsY=
+
+Name: system/media/audio/ringtones/Victoria.ogg
+SHA1-Digest: nCOuRowZqCcKCL5bZjUlRxnSQPw=
+
+Name: system/media/audio/media/audio/notifications/Gila.ogg
+SHA1-Digest: 7sBKxLG+FJumTA00QXGB8drrIk8=
+
+Name: system/media/audio/media/audio/notifications/Piska.ogg
+SHA1-Digest: JE+pZN9/3kVdGQa3+FRzLtg+8Dw=
+
+Name: system/fonts/NotoSansKannada-Regular.ttf
+SHA1-Digest: Qbd9KBSjjXBMBMA3tWvq/JJa0Rs=
+
+Name: system/media/audio/ringtones/Caspian.ogg
+SHA1-Digest: sb52v74PkUZ/iKGZqEieqPVI3Is=
+
+Name: system/media/audio/notifications/Gallatin.ogg
+SHA1-Digest: vlj0RPDgSJtCD1lX7f25Y455JnA=
+
+Name: system/media/audio/media/audio/alarms/surging.ogg
+SHA1-Digest: uz+NmValOH37AsCYnx1k4F/0KOs=
+
+Name: system/media/audio/alarms/breeze.ogg
+SHA1-Digest: ioqQ/djK7XUsHbxSVZ0u8oDJzRY=
+
+Name: system/fonts/NotoSansOldItalic-Regular.ttf
+SHA1-Digest: ohsck9UC4zh8Im2yc7mGapscfK4=
+
+Name: system/media/audio/notifications/Obscura.flac
+SHA1-Digest: jWqSc/elm6OGjQvo3Q1DbJMyCBM=
+
+Name: system/fonts/NotoNaskhArabicUI-Bold.ttf
+SHA1-Digest: alkNOdNfHQcb1GbVlzb3z4ALJ2o=
+
+Name: system/fonts/NotoSansSamaritan-Regular.ttf
+SHA1-Digest: tSXmAp/MY6N430eRCLjRFYeODpw=
+
+Name: system/media/audio/alarms/Armature.flac
+SHA1-Digest: EkPmtE9YDeogBLcQAITR5hVP2wQ=
+
+Name: system/media/audio/alarms/Sway.ogg
+SHA1-Digest: MTL8y1F4qn9/hBv24nYZ8X9fLUc=
+
+Name: system/fonts/Roboto-Bold.ttf
+SHA1-Digest: 80tWiZ8wJU8GtXH9/zxCN4hgWcc=
+
+Name: system/fonts/NotoSansCuneiform-Regular.ttf
+SHA1-Digest: C3sZbEvomibM+7dAsYppeenhphw=
+
+Name: system/media/audio/notifications/Clank.ogg
+SHA1-Digest: 8bj46LIvea0R34sdB/mRu3JL7Dw=
+
+Name: system/media/audio/media/audio/alarms/alarm_clock3.ogg
+SHA1-Digest: H/rt1yDgLzwZqZc36RyWUzrYPXM=
+
+Name: system/fonts/NotoSansImperialAramaic-Regular.ttf
+SHA1-Digest: STY97TG9UMNiK7y/ObvEXrauDC8=
+
+Name: system/fonts/NotoSansMalayalam-Regular.ttf
+SHA1-Digest: ZFzlMBlUX+6C8/CcDuyCrnUbHN4=
+
+Name: system/media/audio/media/audio/alarms/stars.ogg
+SHA1-Digest: n/wrsYdsH+1fnszCIeb9twsIauc=
+
+Name: system/media/audio/ringtones/woody.ogg
+SHA1-Digest: hWykQ9QlWKTAP7JbS9J7eF6XqH0=
+
+Name: system/fonts/NotoSansSaurashtra-Regular.ttf
+SHA1-Digest: GxQqG+3BgqldCgPYR++EI6xkCbE=
+
+Name: system/fonts/RobotoCondensed-LightItalic.ttf
+SHA1-Digest: h2tMoApNsio6KW+3jDxy9Abc9nc=
+
+Name: system/media/audio/media/audio/notifications/Filbert.flac
+SHA1-Digest: nOoEO+NTVOHXXqvt0cikfVd6ano=
+
+Name: system/media/audio/media/audio/notifications/cheerful.ogg
+SHA1-Digest: sMrv1iPdTK+VEUi8D+jltO0XFug=
+
+Name: system/media/audio/notifications/Mystery.ogg
+SHA1-Digest: n7BL9gcGyCEaPtmDUmfWn+8eVXE=
+
+Name: system/media/audio/alarms/alarm_clock3.ogg
+SHA1-Digest: H/rt1yDgLzwZqZc36RyWUzrYPXM=
+
+Name: system/media/audio/notifications/Strum.ogg
+SHA1-Digest: Ej/lcCxgJU3NkDWmko8lWiMIkXs=
+
+Name: system/media/audio/notifications/Highlands.ogg
+SHA1-Digest: ppbQ7FimtsyC6kwXhWaVMuUIZF0=
+
+Name: system/fonts/NotoSansGujaratiUI-Regular.ttf
+SHA1-Digest: vbwOQdsQPc4sAIQ+r2CN3xf+/D8=
+
+Name: system/media/audio/media/audio/ringtones/Euphrates.ogg
+SHA1-Digest: Vx7MmymAdB5b4eI0S3qyIlLLsRk=
+
+Name: system/fonts/NotoSansMalayalamUI-Bold.ttf
+SHA1-Digest: 3Gb8jKrHA81vG2oM4DfJvgUoUKw=
+
+Name: system/fonts/NotoSansGeorgian-Bold.ttf
+SHA1-Digest: PS+91saOl8OrzY1/hpwq4oxCQIg=
+
+Name: system/media/audio/notifications/MessageComplete.ogg
+SHA1-Digest: S+H8qOBKfz4oQpremhF46DE1qy0=
+
+Name: system/media/audio/media/audio/notifications/Pipes.ogg
+SHA1-Digest: +n0CFt/pIDqDtirBSMcW1efQO/Q=
+
+Name: system/media/audio/notifications/Cognate.flac
+SHA1-Digest: TPJ2/+MTxgzfTsRf61QvqJm89QY=
+
+Name: system/media/audio/alarms/TickTack.ogg
+SHA1-Digest: Xurywv4xct1IZY+/9XCi2F2odpk=
+
+Name: system/media/audio/media/audio/notifications/Paloemeu.ogg
+SHA1-Digest: MDvJ3g3RxeiifhBon7W2CuFw/gs=
+
+Name: system/media/audio/media/audio/alarms/Jump_start.ogg
+SHA1-Digest: I1+S2FxGJzcBmbZKQ0DovoFpAdc=
+
+Name: system/media/audio/media/audio/notifications/rhythm.ogg
+SHA1-Digest: 2RKVvf4u0d1KVZDA2GBBBdDO3Uw=
+
+Name: system/media/audio/ringtones/oneplus_tune_rhythm.ogg
+SHA1-Digest: JQMajiMBB0f+LDQDVeDzCw8BrPY=
+
+Name: system/fonts/NotoSansAhom-Regular.otf
+SHA1-Digest: gfIXgg93AeKTTSPeo5nQUx44eEY=
+
+Name: system/media/audio/media/audio/notifications/Biscay.ogg
+SHA1-Digest: k+NvxBm1kN6aAyfHGuG2bGyjT+M=
+
+Name: system/fonts/NotoSansLaoUI-Bold.ttf
+SHA1-Digest: KRVZxsf55j4Lj5Vtcy2GC9cOY/A=
+
+Name: system/media/audio/media/audio/notifications/Hey.ogg
+SHA1-Digest: vvWIAL9mnUzH5oFLfc6PXooHMf4=
+
+Name: system/media/audio/ringtones/Lollipop.ogg
+SHA1-Digest: /MdUExMTVGTixoYpn6VY8TxaYKQ=
+
+Name: system/media/audio/notifications/naivety.ogg
+SHA1-Digest: xycQZOogAzouv5HTKo6kcrof6JQ=
+
+Name: system/fonts/NotoSansBuhid-Regular.ttf
+SHA1-Digest: dUN2iL0LcQwwjnGNOSW8uxsOrR8=
+
+Name: system/media/audio/media/audio/notifications/Enzyme.flac
+SHA1-Digest: vylDc3yB0GMqjnsq5F3dZOQwEtQ=
+
+Name: system/media/audio/media/audio/notifications/Havasu.ogg
+SHA1-Digest: brHCc6aH4IF2DoBZkz61x3SswHw=
+
+Name: system/media/audio/ringtones/Inga.ogg
+SHA1-Digest: 7WmmebZW7E6a/N3ei+hv3rJjJsw=
+
+Name: system/fonts/NotoSansKannadaUI-Regular.ttf
+SHA1-Digest: EjB9vdyyx1GrOLGsdWPfZNRZX2I=
+
+Name: system/fonts/NotoSansBuginese-Regular.ttf
+SHA1-Digest: JCO0wnyRWMVjLIuZSY/+8cSmJ88=
+
+Name: system/media/audio/alarms/Simulacrum.flac
+SHA1-Digest: 7wfJxAOgSO3LS91iaVzmd88081g=
+
+Name: system/media/audio/notifications/Flick.ogg
+SHA1-Digest: cCem/yg7ly6MYvcVHYr4r70soBo=
+
+Name: system/media/audio/media/audio/ui/NFCInitiated.ogg
+SHA1-Digest: OiCHG+ll9O6pjL/NNSlc2KvSVGI=
+
+Name: system/media/audio/media/audio/ringtones/Enthusiastic.ogg
+SHA1-Digest: op7mcakYvbnSOuHxLAfJIrhRi+Q=
+
+Name: system/media/audio/alarms/Dolphin.ogg
+SHA1-Digest: QLqOb5f8M9Fu6FBSbeOiMYPgR6A=
+
+Name: system/media/audio/media/audio/alarms/Dolphin.ogg
+SHA1-Digest: QLqOb5f8M9Fu6FBSbeOiMYPgR6A=
+
+Name: system/fonts/NotoSansOsmanya-Regular.ttf
+SHA1-Digest: UelFzh7KyKHh3DDSZG7kJrdQOyI=
+
+Name: system/media/audio/media/audio/ringtones/Walking_Dead.mp3
+SHA1-Digest: W8ypPX+ZtxnEJVLipQMT1kq3YgM=
+
+Name: system/media/audio/notifications/Bezel.flac
+SHA1-Digest: VGIH75zCJ+gtpS71Lv/V4RyvM34=
+
+Name: system/fonts/NotoSansThaana-Regular.ttf
+SHA1-Digest: gjop5PB9qv8dUOx8f1MUNARNcyA=
+
+Name: system/media/audio/media/audio/ringtones/Freedom.ogg
+SHA1-Digest: ijNuXirATlo+kevw1oNZMYss13o=
+
+Name: system/media/audio/alarms/Bounce.ogg
+SHA1-Digest: ImhuGij6DJ/lQ+rDwFzujw98bn4=
+
+Name: system/media/audio/media/audio/notifications/Donzy.ogg
+SHA1-Digest: WB/c7i2FUP4bmaSBCJV1fZhG8As=
+
+Name: system/media/audio/media/audio/notifications/Searchlight.ogg
+SHA1-Digest: TTBwpjfPKxFdehkQzToSOaNQgLw=
+
+Name: system/media/audio/notifications/free.ogg
+SHA1-Digest: GIC5mvW2KBW29ojZ/aP9zMChiuc=
+
+Name: system/media/audio/notifications/Expeller.flac
+SHA1-Digest: 4aeZpr/7otCb7np1vguJAmgk2LE=
+
+Name: system/fonts/NotoSansEthiopic-Bold.ttf
+SHA1-Digest: yP9TnKj31dkFt/sqmG8l/XEgqNw=
+
+Name: system/media/audio/ringtones/drizzle.ogg
+SHA1-Digest: iaWDrXyf6R59bHk7ok/zwUuNLlU=
+
+Name: system/fonts/GoogleSans-Bold.ttf
+SHA1-Digest: yrdAPOQXnsXMQij15yx9UEhzLVY=
+
+Name: system/media/audio/media/audio/ringtones/argo_navis.mp3
+SHA1-Digest: q1CnSoFmzVQ/zjd893X7Nuuae+0=
+
+Name: system/fonts/NotoSansTagalog-Regular.ttf
+SHA1-Digest: QssZSwDofRdx2JvSZLV4iv66yns=
+
+Name: system/media/audio/media/audio/notifications/Berezina.ogg
+SHA1-Digest: UEqqrYYLx4OF05Kum5BZzMPOsNQ=
+
+Name: system/media/audio/media/audio/ringtones/Arno.ogg
+SHA1-Digest: PrUM0aLz/sef17JU1APB5lOev9o=
+
+Name: system/media/audio/media/audio/notifications/Note.ogg
+SHA1-Digest: qNchzrbeHTVzeS1jcCzHl0fgil4=
+
+Name: system/fonts/NotoSansGurmukhiUI-Bold.ttf
+SHA1-Digest: pw8VeGmpZiPPa1F2Xm026VA5ZT4=
+
+Name: system/fonts/NotoSansMyanmarUI-Regular.ttf
+SHA1-Digest: QACej6ULi58avI7fwUsjey8B1FI=
+
+Name: system/media/audio/alarms/surging.ogg
+SHA1-Digest: uz+NmValOH37AsCYnx1k4F/0KOs=
+
+Name: system/media/audio/notifications/vastness.ogg
+SHA1-Digest: cD5kYizaRJcVbQuqcqd2nxA4fu0=
+
+Name: system/media/audio/notifications/Chirp.ogg
+SHA1-Digest: SJ8gXhm/3kEGI5NM7BTAm/WV8p0=
+
+Name: system/fonts/NotoSansChakma-Regular.ttf
+SHA1-Digest: q/DGVah55r5cZWZzeZJ5L4FJ8sE=
+
+Name: system/media/audio/notifications/Taiga.ogg
+SHA1-Digest: gYFnn9r6GaG0GG3oJC3KZREaSRo=
+
+Name: system/fonts/NotoSansMalayalam-Bold.ttf
+SHA1-Digest: r0rRJbsoUbShVtzK9vTr4eIfcY8=
+
+Name: README.md
+SHA1-Digest: xZm16SBeAqSVD6al7zA7nNreioQ=
+
+Name: system/fonts/NotoSansKhmerUI-Bold.ttf
+SHA1-Digest: 3Miv8TfUB3W17pKreby9iZ61dB8=
+
+Name: system/media/audio/media/audio/alarms/fluttering.ogg
+SHA1-Digest: cU9PPA85d72gVfhZoz7j1s7ugYU=
+
+Name: system/media/audio/notifications/Donzy.ogg
+SHA1-Digest: WB/c7i2FUP4bmaSBCJV1fZhG8As=
+
+Name: system/fonts/NotoSansThai-Regular.ttf
+SHA1-Digest: hdqcP6g83jUxQiaDAMT+VcxS+1g=
+
+Name: system/media/audio/notifications/amiable.ogg
+SHA1-Digest: SS5NRKt7p839YtjZzmhVYJUGU5U=
+
+Name: system/fonts/NotoSansAnatolianHieroglyphs-Regular.otf
+SHA1-Digest: 9ZpDAqhpV9LdsvlDJr7XAtqWm84=
+
+Name: system/media/audio/media/audio/ui/Effect_Tick.ogg
+SHA1-Digest: x+v9uqjIq2xlTzWUvoBvUO8ZKHw=
+
+Name: system/media/audio/alarms/stars.ogg
+SHA1-Digest: n/wrsYdsH+1fnszCIeb9twsIauc=
+
+Name: system/fonts/NotoSansLycian-Regular.ttf
+SHA1-Digest: liBlldxzDCRLHQsWO0VRBpYZ+kI=
+
+Name: system/fonts/NotoSansNabataean-Regular.otf
+SHA1-Digest: j5tDcoAwLy2WrakuqyYcPk6mxVs=
+
+Name: system/media/audio/ringtones/Euphrates.ogg
+SHA1-Digest: Vx7MmymAdB5b4eI0S3qyIlLLsRk=
+
+Name: system/media/audio/media/audio/notifications/Guitar.ogg
+SHA1-Digest: nf7Zk2Co/HZmbbwwqOKiarmjvko=
+
+Name: system/media/audio/notifications/Howl.ogg
+SHA1-Digest: udIk/6krvY7NKZ2V+GdqjqWbCRU=
+
+Name: system/media/audio/media/audio/ringtones/Platte.ogg
+SHA1-Digest: /2AA5dTt6eLfgqayR4OydgMcgZc=
+
+Name: system/media/audio/media/audio/alarms/Gentle_breeze.ogg
+SHA1-Digest: CwBk7pKNTLeWsokX1C9PcVKVEsI=
+
+Name: system/media/audio/media/audio/notifications/Chirp.ogg
+SHA1-Digest: SJ8gXhm/3kEGI5NM7BTAm/WV8p0=
+
+Name: system/fonts/Roboto-Light.ttf
+SHA1-Digest: 0ehcXGe+jgylPE8GwA9yRqsbpoM=
+
+Name: system/media/audio/media/audio/notifications/Hudson.ogg
+SHA1-Digest: ZuWSEafaNgMSWCt13Zf9jO9y7SM=
+
+Name: system/media/audio/media/audio/ringtones/Columbia.ogg
+SHA1-Digest: qCIpmOQ3AW949eObztElkblM3Bg=
+
+Name: system/media/audio/media/audio/ringtones/marimba.ogg
+SHA1-Digest: K7Qk19IVsopiF2cGIiRlBCKRf1Y=
+
+Name: system/fonts/DroidSans.ttf
+SHA1-Digest: ec7mNJ61AU/cTSqVHThN35HOun4=
+
+Name: system/media/audio/media/audio/ringtones/Copycat.ogg
+SHA1-Digest: eG07TPSfPgpjn7equ+tX9Ekp8og=
+
+Name: system/media/audio/media/audio/notifications/Sprue.flac
+SHA1-Digest: oBsjMF6mmzZf8ER9x1ZO+VbNG6Y=
+
+Name: system/media/audio/media/audio/ringtones/game.ogg
+SHA1-Digest: 2T3UuKSykrBSYkEFUZ90g/k4Ovg=
+
+Name: system/media/audio/ringtones/echo.ogg
+SHA1-Digest: 3iaMC3MrfVV1DJ1nOERtmW4a3u0=
+
+Name: system/media/audio/media/audio/notifications/quickly.ogg
+SHA1-Digest: 1r18CFC9bX4Ur9j6yA59PjgEO3g=
+
+Name: system/media/audio/media/audio/alarms/Bounce.ogg
+SHA1-Digest: ImhuGij6DJ/lQ+rDwFzujw98bn4=
+
+Name: system/media/audio/alarms/memory.ogg
+SHA1-Digest: 66D4VA8mLymXMJgwkp3ceYirKOk=
+
+Name: system/fonts/Roboto-BoldItalic.ttf
+SHA1-Digest: jkiZylhqjJdvE+2sRjHA75BXYp0=
+
+Name: system/media/audio/notifications/trill.ogg
+SHA1-Digest: CebRCd/EffZ7Fncknl7hakH/GpU=
+
+Name: system/media/audio/media/audio/notifications/Crater.ogg
+SHA1-Digest: nuqHm6mDG+/Lp5Nc1lsOBclV/vs=
+
+Name: system/media/audio/media/audio/alarms/memory.ogg
+SHA1-Digest: 66D4VA8mLymXMJgwkp3ceYirKOk=
+
+Name: system/media/audio/media/audio/notifications/Manu.ogg
+SHA1-Digest: bu0l9n0O/YBIuG4FyihWP6lls7Q=
+
+Name: system/media/audio/media/audio/notifications/meet.ogg
+SHA1-Digest: AjS9QR6KqHoprSBDqbm49/7vWMQ=
+
+Name: system/media/audio/media/audio/notifications/Flick.ogg
+SHA1-Digest: cCem/yg7ly6MYvcVHYr4r70soBo=
+
+Name: system/media/audio/ringtones/Yamdrok.ogg
+SHA1-Digest: YtB4iBlw0hZ1S9i37VSL2Ka4jHY=
+
+Name: system/media/audio/alarms/Teleologic.flac
+SHA1-Digest: vK0nr7cGgtl6nMWwxsgL9lHpzTc=
+
+Name: system/fonts/NotoSansCherokee-Regular.ttf
+SHA1-Digest: sVSUJMMrypGK+MmUSnjNUSwI5eI=
+
+Name: system/fonts/NotoSansPauCinHau-Regular.otf
+SHA1-Digest: 0b3pkBaw+ffeY5wCqHdJk93/ONU=
+
+Name: system/media/audio/media/audio/alarms/alarm_clock4.ogg
+SHA1-Digest: OrLN0q3/xKJTF5BDf/zIHeYoQl4=
+
+Name: system/media/audio/notifications/silent.ogg
+SHA1-Digest: wkfhgJ1Na3jTXEj5P2tok18L6Vg=
+
+Name: system/media/audio/ringtones/Loire.ogg
+SHA1-Digest: bdaBg6TfJPFVTG73Ljo0LufFLYI=
+
+Name: system/fonts/NotoSansSinhalaUI-Bold.otf
+SHA1-Digest: cN9Qhf+4sqfeMnth55EkwdnDVrU=
+
+Name: system/fonts/NotoNaskhArabicUI-Regular.ttf
+SHA1-Digest: k/yRhpgPnfCzQvLbB/Eyp+a2/ZA=
+
+Name: system/media/audio/notifications/joyful.ogg
+SHA1-Digest: deZMkFfsjQcRHO1OdHtlL8XJp7I=
+
+Name: system/xbin/sqlite3
+SHA1-Digest: mLQZTA7gtHxMGMXK9tthiXY1rJo=
+
+Name: system/media/audio/media/audio/notifications/Birdsong.ogg
+SHA1-Digest: 12j8L4O39Fd0/YtEH1U3Ig6r1Nc=
+
+Name: system/fonts/NotoSansTaiViet-Regular.ttf
+SHA1-Digest: NDoAMRsR5hXp1ysn5EDpdaG3rik=
+
+Name: system/media/audio/media/audio/notifications/Popcorn.ogg
+SHA1-Digest: 7m1WKddI2DNNMNYotjpD9vlDNlk=
+
+Name: system/media/audio/media/audio/ui/Trusted.ogg
+SHA1-Digest: tJgTWP63SEvdpB38qsWsleQ/Jts=
+
+Name: system/media/audio/media/audio/alarms/the_wind.ogg
+SHA1-Digest: 4aAedUNHVv5mN1YQj22/vsCqPFg=
+
+Name: system/media/audio/media/audio/notifications/Arc.flac
+SHA1-Digest: Con3mGAklW4lIqxNKpqG3imwjNY=
+
+Name: system/media/audio/media/audio/notifications/Frog.ogg
+SHA1-Digest: WPfOe0161cMAjIQKPGguvThVbWQ=
+
+Name: system/media/audio/ringtones/Coral.ogg
+SHA1-Digest: mCD1pgCa4Iz8G63yqMfkLDhnfuw=
+
+Name: system/fonts/NotoSansManichaean-Regular.otf
+SHA1-Digest: btnM3Jww7VCmyeZES5iZi65z3bU=
+
+Name: system/media/audio/ringtones/Columbia.ogg
+SHA1-Digest: qCIpmOQ3AW949eObztElkblM3Bg=
+
+Name: system/media/audio/alarms/Orbit.ogg
+SHA1-Digest: ZvoSfRmBSVQp2WtY4YxJVx2uYwc=
+
+Name: system/media/audio/notifications/Graphite.flac
+SHA1-Digest: H5t/G1vl5dW77eLCuBdJ+ucQnXM=
+
+Name: system/media/audio/media/audio/notifications/Linseed.flac
+SHA1-Digest: XmZVL95Jnp5kVDhbvuyFcyShwks=
+
+Name: system/media/audio/media/audio/notifications/Orders_up.ogg
+SHA1-Digest: DDqy0fg8b5p6HwkTEzkLy+VoS6M=
+
+Name: system/media/audio/ringtones/Summer_night.ogg
+SHA1-Digest: 4Pb3y5QCf5/DumJr5paAs6kwTqc=
+
+Name: system/media/audio/media/audio/alarms/Spokes.ogg
+SHA1-Digest: FXHj7mBMr2fEq9kyRi4MAA39lfE=
+
+Name: system/media/audio/notifications/Biscay.ogg
+SHA1-Digest: k+NvxBm1kN6aAyfHGuG2bGyjT+M=
+
+Name: system/media/audio/media/audio/notifications/Tarkine.ogg
+SHA1-Digest: 82JL1QzcgR2yW+jfqjysV6fzNXU=
+
+Name: system/fonts/NotoSansCoptic-Regular.ttf
+SHA1-Digest: jxM/xyIGUFJiVkrRVNqDDNHTEGI=
+
+Name: system/media/audio/ringtones/cyclotron.ogg
+SHA1-Digest: rYxjTz2F7+5vYSya57mc7IDX6hI=
+
+Name: system/media/audio/media/audio/alarms/Daydream.ogg
+SHA1-Digest: xIcrU622Eq4WIRnTHiZ1OoaaIyU=
+
+Name: system/media/audio/notifications/Havasu.ogg
+SHA1-Digest: brHCc6aH4IF2DoBZkz61x3SswHw=
+
+Name: system/media/audio/notifications/Maquette.flac
+SHA1-Digest: jVA0eecvHt9+p8uTjyBWvcv7NIQ=
+
+Name: system/media/audio/media/audio/ringtones/Niagara.ogg
+SHA1-Digest: 8YEr7BsZrH7tKh6xhMANgY6jNTs=
+
+Name: system/media/audio/media/audio/notifications/Croatan.ogg
+SHA1-Digest: vPUlHs1nbc6qcxm2hjmWQXW1DuU=
+
+Name: system/fonts/RobotoCondensed-Regular.ttf
+SHA1-Digest: W10BsxSzEwsWgQnn0mLHceOi01s=
+
+Name: system/media/audio/media/audio/ringtones/Hue.flac
+SHA1-Digest: MakgHA6dSpDF49n6IxMXxcigdwI=
+
+Name: system/media/audio/ringtones/Bevel.flac
+SHA1-Digest: sVeQrKTS5rRNDgJJSXYD8443n7E=
+
+Name: system/media/audio/notifications/FadeOut.ogg
+SHA1-Digest: SITQ6fSsTCSsaJy38eZ1ANxfsPw=
+
+Name: system/fonts/NotoSansElbasan-Regular.otf
+SHA1-Digest: C/tPBxYxQ36iHxLOQ9Rz6rRxLEE=
+
+Name: system/media/audio/ringtones/Assemblage.flac
+SHA1-Digest: OTF8kKhDX/4RIyawdMsONDFpLac=
+
+Name: system/fonts/NotoSansOldPermic-Regular.otf
+SHA1-Digest: q1eWoDBBGcKe/kwLID9s4nmNd3A=
+
+Name: system/media/audio/media/audio/ringtones/Mezzotint.flac
+SHA1-Digest: /x+A9TQhKX8Jycmd4Gzs8uuyuvI=
+
+Name: system/media/audio/media/audio/ringtones/optimistic.ogg
+SHA1-Digest: pZra/bE6GpIVFVXZC2Nz2KMnaGQ=
+
+Name: system/fonts/CarroisGothicSC-Regular.ttf
+SHA1-Digest: AJ0mlros601Y3KKmU1t8dPJSyvI=
+
+Name: system/media/audio/media/audio/alarms/leisurely.ogg
+SHA1-Digest: 26aXTp3qzLsvbbiniZoCpaFqQjk=
+
+Name: system/media/audio/ringtones/gaiety.ogg
+SHA1-Digest: tnF2ZRpG8mLBCuCEFO/aPzCRNYQ=
+
+Name: system/media/audio/notifications/Harp.ogg
+SHA1-Digest: QcKFBluBltMbmM6AuaAmv3s8AcI=
+
+Name: system/fonts/NotoSansLimbu-Regular.ttf
+SHA1-Digest: 9gSFrGhNFlRboe0STPoJZTh3LcM=
+
+Name: system/media/audio/notifications/Piano.ogg
+SHA1-Digest: wn/2+dPLN9Reldz73gebDGLONFs=
+
+Name: system/media/audio/notifications/Linseed.flac
+SHA1-Digest: XmZVL95Jnp5kVDhbvuyFcyShwks=
+
+Name: system/media/audio/alarms/tactfully.ogg
+SHA1-Digest: xSJRF03x+cYbHuWAkWGdVof6ATI=
+
+Name: system/fonts/NotoSansBatak-Regular.ttf
+SHA1-Digest: Y0s0LcnjB87DNxDGOqUE4iQbjbk=
+
+Name: system/media/audio/media/audio/notifications/Mica.flac
+SHA1-Digest: WqL6FhWiqLDgT8XP5rxC7rYPbzA=
+
+Name: system/fonts/NotoSansGurmukhi-Regular.ttf
+SHA1-Digest: C0iSflqm4QkUp16+Y1DCiQ8LCig=
+
+Name: system/media/audio/media/audio/notifications/free.ogg
+SHA1-Digest: GIC5mvW2KBW29ojZ/aP9zMChiuc=
+
+Name: system/media/audio/notifications/ding.ogg
+SHA1-Digest: U70sFbNYhAleVwWcmPJmnkr7ycI=
+
+Name: system/media/audio/ringtones/Glockenspiel.ogg
+SHA1-Digest: jBuCAx8PhfKrBnSNF9211WXHZGw=
+
+Name: system/media/audio/media/audio/alarms/Intaglio.flac
+SHA1-Digest: sItOk9fNlSri5DtywGnkbz//S48=
+
+Name: system/media/audio/ringtones/Childhood.ogg
+SHA1-Digest: /sCKXCB56RzNWUfIOc0Wfd9bVR8=
+
+Name: system/media/audio/media/audio/ringtones/Spaceship.ogg
+SHA1-Digest: +Dr9DWkJ1a+/Po9fthrjlrA5fbM=
+
+Name: system/media/audio/ringtones/GuitarClassic.ogg
+SHA1-Digest: vA2EzvkbdPiSkkFyhVE7qZn2xUk=
+
+Name: system/fonts/NotoSansBengaliUI-Regular.ttf
+SHA1-Digest: FkE4NT8fAJB40QWFE4vYTOQF2r0=
+
+Name: system/media/audio/media/audio/alarms/Gallop.ogg
+SHA1-Digest: hmIXF+8cBoycYF1GHnLVzcFZPC0=
+
+Name: system/media/audio/ringtones/rotation.ogg
+SHA1-Digest: zp7exY1Eor6iiNlI4VFpui+L+is=
+
+Name: system/fonts/NotoSansSylotiNagri-Regular.ttf
+SHA1-Digest: sCeOVScbMGd6xaoTODsv5LslJYQ=
+
+Name: system/media/audio/alarms/Mastic.flac
+SHA1-Digest: MbRA7L4DCLBIpOfNkrq6AJsCqnI=
+
+Name: system/fonts/NotoSansMultani-Regular.otf
+SHA1-Digest: zJ7BHSt026+pJD9HlfjmS5jumyQ=
+
+Name: system/media/audio/media/audio/notifications/ElectronBeam.ogg
+SHA1-Digest: poxkkEaFYUzEGT/yOfoF6lk4uMg=
+
+Name: system/media/audio/media/audio/ui/NFCTransferInitiated.ogg
+SHA1-Digest: 3BOcuAZCU2z4dz/ob99xWiaSgvU=
+
+Name: system/media/audio/alarms/GoodNewDay.ogg
+SHA1-Digest: yoVFtNvEF7FILR2XrJjoW+ICs/s=
+
+Name: system/media/audio/media/audio/ui/KeypressStandard.ogg
+SHA1-Digest: A2RFwjx0Ua60zy3Mp0OxqFL1hxE=
+
+Name: system/media/audio/alarms/Gouache.flac
+SHA1-Digest: OaL6sr7UWuKRz91gCYY7HDiHF2Y=
+
+Name: system/media/audio/alarms/Dammar.flac
+SHA1-Digest: pflVPa3rFlm/wRDswXly3Yer6Cg=
+
+Name: system/fonts/NotoSansCanadianAboriginal-Regular.ttf
+SHA1-Digest: nKFn6pY4JKCvyvT1Aivo7doA56I=
+
+Name: system/media/audio/alarms/Beep.ogg
+SHA1-Digest: GroEbNjcEUXLR9qievN5r1G2Snk=
+
+Name: system/media/audio/media/audio/notifications/Brushstroke.flac
+SHA1-Digest: y8CMSW0GPpVgDiZy8oIzM9Rc7Rc=
+
+Name: system/media/audio/media/audio/notifications/Howl.ogg
+SHA1-Digest: udIk/6krvY7NKZ2V+GdqjqWbCRU=
+
+Name: system/media/audio/ringtones/tinkle.ogg
+SHA1-Digest: QnMatzcx3Q9I/FHAzcN3tOpUYtI=
+
+Name: system/media/audio/media/audio/ringtones/Nuclear_Alarm.mp3
+SHA1-Digest: BLAVk6O1Xzu6kqzkLsFi3+WT5/0=
+
+Name: system/media/audio/notifications/Fresco.flac
+SHA1-Digest: wLbLa5RLQ1hpW9KO/8GlhNt5uPU=
+
+Name: system/media/audio/notifications/spirit.ogg
+SHA1-Digest: oe5dqLRMaYnJaJaGsApNbnXdBSE=
+
+Name: system/media/audio/alarms/Nudge.ogg
+SHA1-Digest: nLivtiRWmlnY4XHNCrQ6zJ1JFb0=
+
+Name: system/media/audio/ringtones/Malacca.ogg
+SHA1-Digest: M8dNkv2zhE9dFyu8Zrs2zcKfTsQ=
+
+Name: system/fonts/NotoSansMiao-Regular.otf
+SHA1-Digest: Hw+NLNcBS1jb19a1ixHGGcCpyyA=
+
+Name: system/media/audio/media/audio/ringtones/woody.ogg
+SHA1-Digest: hWykQ9QlWKTAP7JbS9J7eF6XqH0=
+
+Name: system/media/audio/media/audio/ringtones/Shooting_star.ogg
+SHA1-Digest: Szt2U8acjmw5vdwzCdYQ/Ki+w6I=
+
+Name: system/media/audio/notifications/cheerful.ogg
+SHA1-Digest: sMrv1iPdTK+VEUi8D+jltO0XFug=
+
+Name: system/media/audio/ringtones/Allegheny.ogg
+SHA1-Digest: nrgrO2vqpIhTfdiD9AmpqNDYzLQ=
+
+Name: system/media/audio/notifications/Pumice.flac
+SHA1-Digest: JrlzUM7grV0udsI/j/PfefrAIsQ=
+
+Name: system/fonts/NotoSerif-Regular.ttf
+SHA1-Digest: b1rxmbQPZ36SW9gWrLaRK/rt8iM=
+
+Name: system/media/audio/media/audio/ringtones/Zen_too.ogg
+SHA1-Digest: /DlYFoe2E2dL/0BI94/2KSHaf+I=
+
+Name: system/fonts/NotoNaskhArabic-Regular.ttf
+SHA1-Digest: z/aTdr5L6kpCl20fY+3QxobV3V8=
+
+Name: system/media/audio/media/audio/ringtones/Schools_out.ogg
+SHA1-Digest: GLD/iJ5O67DheqlVHhrMN76hwP8=
+
+Name: system/media/audio/notifications/Searchlight.ogg
+SHA1-Digest: TTBwpjfPKxFdehkQzToSOaNQgLw=
+
+Name: system/media/audio/media/audio/ringtones/Rrrring.ogg
+SHA1-Digest: o+JGaGtQJk3Z5jkGDaKQcczbiEI=
+
+Name: system/fonts/NotoSansLao-Regular.ttf
+SHA1-Digest: GP3c513yxIvoAUM0T7WezxhDMDY=
+
+Name: system/media/audio/alarms/ClassicAlarm.ogg
+SHA1-Digest: Nscf3EODxQuJbsBIBWvaZWrUa2o=
+
+Name: system/fonts/RobotoCondensed-Bold.ttf
+SHA1-Digest: OEzIXXyYHPkiG5GVQah42JcAHR4=
+
+Name: system/media/audio/notifications/Ligature.flac
+SHA1-Digest: /lPrpOWMDTbhneXkRRM8M3J5teA=
+
+Name: system/media/audio/notifications/Tarkine.ogg
+SHA1-Digest: 82JL1QzcgR2yW+jfqjysV6fzNXU=
+
+Name: system/fonts/NotoSansThaiUI-Regular.ttf
+SHA1-Digest: 08C0uvKjFhAmD99IEyVE58dqlHQ=
+
+Name: system/media/audio/ringtones/Envelop.flac
+SHA1-Digest: A8QT0OQAijYlJ5c5svgwClcLBAo=
+
+Name: system/media/audio/media/audio/ringtones/dynamic.ogg
+SHA1-Digest: H1pK/essC16ZdIZjVPkF1EqfQDY=
+
+Name: system/media/audio/notifications/Filbert.flac
+SHA1-Digest: nOoEO+NTVOHXXqvt0cikfVd6ano=
+
+Name: system/etc/gps.conf
+SHA1-Digest: nVja57HnQysGOVWfWWLLqWyVfMI=
+
+Name: system/media/audio/ringtones/Acacia.flac
+SHA1-Digest: 7SuSe76wmD6ngSMHTqht8DkB1aQ=
+
+Name: system/media/audio/media/audio/alarms/Calx.flac
+SHA1-Digest: 1vkj9bgPqYKMsessvmTg1PNY57g=
+
+Name: system/media/audio/media/audio/notifications/FadeOut.ogg
+SHA1-Digest: SITQ6fSsTCSsaJy38eZ1ANxfsPw=
+
+Name: system/media/audio/media/audio/ringtones/Clinker.flac
+SHA1-Digest: QWk+mpcHiu+bKQT8rjYgEY/tUFU=
+
+Name: system/fonts/NotoSansOldSouthArabian-Regular.ttf
+SHA1-Digest: yaOq5zavk8KmyAv5e3wYKqR3uwk=
+
+Name: system/fonts/NotoSansMeroitic-Regular.otf
+SHA1-Digest: lWvRfdK+MKHzAEq+avWcKUJFSzw=
+
+Name: system/media/audio/ringtones/Tongass.ogg
+SHA1-Digest: SPaLUz/JjgwMtGJMFlBfpRNESow=
+
+Name: system/media/audio/media/audio/ringtones/cloud.ogg
+SHA1-Digest: ZQ8zCAUjCYliRw3ITB3PduwjUbQ=
+
+Name: system/media/audio/media/audio/ringtones/Acacia.flac
+SHA1-Digest: 7SuSe76wmD6ngSMHTqht8DkB1aQ=
+
+Name: system/fonts/NotoSansTibetan-Regular.ttf
+SHA1-Digest: inkadJBpj1+fCXc6j0LHwsD4UZI=
+
+Name: system/fonts/DancingScript-Bold.ttf
+SHA1-Digest: SJqlYayl71qOmISxg8rTGi5SvZ8=
+
+Name: system/fonts/NotoSansBalinese-Regular.ttf
+SHA1-Digest: ank40LhSzopQnEjWRbDcwrdzdh8=
+
+Name: system/media/audio/notifications/Gauge.flac
+SHA1-Digest: 9CEiVTd/cYHE6lk3OIFsgUfxIKs=
+
+Name: system/media/audio/media/audio/alarms/Burnish.flac
+SHA1-Digest: 2bq2sWKfVhQqArFyWwz0cTFFLmM=
+
+Name: system/fonts/NotoSansGlagolitic-Regular.ttf
+SHA1-Digest: NXBMn5M7cAZQyDBqBqnrfcmq6lE=
+
+Name: system/media/audio/media/audio/alarms/tactfully.ogg
+SHA1-Digest: xSJRF03x+cYbHuWAkWGdVof6ATI=
+
+Name: system/media/audio/alarms/dream.ogg
+SHA1-Digest: V5oB4uqIyY+BsA0F8gglyctBpq0=
+
+Name: system/fonts/NotoSansBassaVah-Regular.otf
+SHA1-Digest: ZWFva01df0jKlJArhWQlupif/Bk=
+
+Name: system/media/audio/alarms/walking_in_the_rain.ogg
+SHA1-Digest: R9hta+8HFqh3tPOTtxrBJ8S3nj8=
+
+Name: system/media/audio/notifications/elegant.ogg
+SHA1-Digest: qngN4F9J+lzePoLXGkhX5qJ87ic=
+
+Name: system/media/audio/media/audio/ui/VideoStop.ogg
+SHA1-Digest: vlOZ93RsssX0uaxd/f+ZfMBL9hs=
+
+Name: system/media/audio/notifications/OpenBottle.ogg
+SHA1-Digest: 720LLBRSvNqtd5tL66S9VYrWykM=
+
+Name: system/media/audio/ringtones/ToyRobot.ogg
+SHA1-Digest: BByW/iMvwLW8+6uZcJ1p0FTivDU=
+
+Name: system/media/audio/media/audio/ringtones/Malacca.ogg
+SHA1-Digest: M8dNkv2zhE9dFyu8Zrs2zcKfTsQ=
+
+Name: system/media/audio/ringtones/Monteverde.ogg
+SHA1-Digest: tSQCc9MkN+CDztQuKNyJoQnt1As=
+
+Name: system/bin/keweon
+SHA1-Digest: 4sg3sDHt86fPNN1AdxUOy0A0tmY=
+
+Name: system/media/audio/media/audio/ui/camera_click.ogg
+SHA1-Digest: wKCUDFm7amRHBwk2FqwEhliJm5g=
+
+Name: system/media/audio/media/audio/notifications/Bialowieza.ogg
+SHA1-Digest: vzEJXM/tI60mfoYwIrsyBg71OxU=
+
+Name: system/media/audio/ringtones/Sabeline.flac
+SHA1-Digest: wiBzIOgdTWvKEIhsQGpL4UbFj9s=
+
+Name: system/media/audio/media/audio/ringtones/Lollipop.ogg
+SHA1-Digest: /MdUExMTVGTixoYpn6VY8TxaYKQ=
+
+Name: system/media/audio/media/audio/notifications/Alloy.flac
+SHA1-Digest: Hp18F229X1tYtlYFfgg5uDh3MUo=
+
+Name: system/media/audio/media/audio/ringtones/MusicBox.ogg
+SHA1-Digest: 3ZGEWjliRl9hizsN2jgT8KmawSA=
+
+Name: system/media/audio/media/audio/notifications/Fresco.flac
+SHA1-Digest: wLbLa5RLQ1hpW9KO/8GlhNt5uPU=
+
+Name: system/fonts/Roboto-Regular.ttf
+SHA1-Digest: ANYvvcjV3sTGWQBeEW0Lou5jtUc=
+
+Name: system/media/audio/media/audio/ringtones/tinkle.ogg
+SHA1-Digest: QnMatzcx3Q9I/FHAzcN3tOpUYtI=
+
+Name: system/media/audio/media/audio/notifications/light.ogg
+SHA1-Digest: InvgHxgl4weIDu07+lLakbWSFvc=
+
+Name: system/media/audio/media/audio/notifications/Pumice.flac
+SHA1-Digest: JrlzUM7grV0udsI/j/PfefrAIsQ=
+
+Name: system/fonts/NotoSansKaithi-Regular.ttf
+SHA1-Digest: /kSkqomBjizV22SsRrO/ws14if0=
+
+Name: system/media/audio/alarms/fluttering.ogg
+SHA1-Digest: cU9PPA85d72gVfhZoz7j1s7ugYU=
+
+Name: system/media/audio/media/audio/ringtones/Mahanadi.ogg
+SHA1-Digest: ZQ0rj1pkNbfhjvApN1inKqqkAZw=
+
+Name: system/media/audio/media/audio/ringtones/Ohrid.ogg
+SHA1-Digest: cVk2A7ACRzJKFjsl0vDokfMkYbE=
+
+Name: system/media/audio/media/audio/ui/KeypressDelete.ogg
+SHA1-Digest: oS/sj94ngK8Hv/RpcF11TX1MaCc=
+
+Name: system/fonts/NotoSansOriyaUI-Regular.ttf
+SHA1-Digest: 26OWqtinaCmMcve0KnoU/xe8aiQ=
+
+Name: system/media/audio/media/audio/alarms/Full_of_wonder.ogg
+SHA1-Digest: unUzz8csOT6qmgMprBQBX5mWxww=
+
+Name: system/media/audio/notifications/Croatan.ogg
+SHA1-Digest: vPUlHs1nbc6qcxm2hjmWQXW1DuU=
+
+Name: system/media/audio/ringtones/piano.ogg
+SHA1-Digest: rF1mF2rE6bfU1lHp9q1R4oQKl1c=
+
+Name: system/fonts/NotoSansOldTurkic-Regular.ttf
+SHA1-Digest: tvftJTuzC4E1DeqZ97ATfDJIxc8=
+
+Name: system/media/audio/media/audio/ringtones/drizzle.ogg
+SHA1-Digest: iaWDrXyf6R59bHk7ok/zwUuNLlU=
+
+Name: system/fonts/NotoSansSymbols-Regular-Subsetted2.ttf
+SHA1-Digest: EGvAoLSwBhWHKpk/53qsuuaLEg8=
+
+Name: system/media/audio/alarms/MorningSunShine.ogg
+SHA1-Digest: +rsDswxM7kWzqOwnnVb56ciE0HM=
+
+Name: system/media/audio/media/audio/ui/KeypressInvalid.ogg
+SHA1-Digest: 1URpOaUWpEaaXOk+5RffVPnwLkA=
+
+Name: system/media/audio/media/audio/ringtones/Assemblage.flac
+SHA1-Digest: OTF8kKhDX/4RIyawdMsONDFpLac=
+
+Name: system/media/audio/ringtones/Early_bird.ogg
+SHA1-Digest: +aKUYt2hmN4xqIN4M0ArhZoW2PQ=
+
+Name: system/media/audio/media/audio/ringtones/Early_bird.ogg
+SHA1-Digest: +aKUYt2hmN4xqIN4M0ArhZoW2PQ=
+
+Name: system/media/audio/alarms/Awaken.ogg
+SHA1-Digest: 5oSq5+VvvARDTR+Zp2g7H5jqw5Q=
+
+Name: system/media/audio/media/audio/notifications/MessageIncoming.ogg
+SHA1-Digest: c+dHEryo1jV/u5rJaQ54g/n4j9s=
+
+Name: system/media/audio/media/audio/notifications/MagicalDrug.ogg
+SHA1-Digest: k0YlRQRN0mYZpL9rvXs4eZSvxRw=
+
+Name: system/media/audio/media/audio/notifications/Maquette.flac
+SHA1-Digest: jVA0eecvHt9+p8uTjyBWvcv7NIQ=
+
+Name: system/media/audio/media/audio/ringtones/Yamdrok.ogg
+SHA1-Digest: YtB4iBlw0hZ1S9i37VSL2Ka4jHY=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: JI97C8cW14Pf9ZyAiBmub0r6YO8=
+
+Name: system/media/audio/notifications/Sundarbans.ogg
+SHA1-Digest: 2uLA3CXH67Rfd9B0hOc5PgbzHQY=
+
+Name: system/media/audio/media/audio/notifications/Kootenai.ogg
+SHA1-Digest: 0osyedCRgkpDoPCw/0VBcJT8Chs=
+
+Name: system/media/audio/ringtones/Enthusiastic.ogg
+SHA1-Digest: op7mcakYvbnSOuHxLAfJIrhRi+Q=
+
+Name: system/media/audio/media/audio/ui/NFCFailure.ogg
+SHA1-Digest: U8LMnkIdUEMsf0ccZb4BjbDPKKw=
+
+Name: system/media/audio/ringtones/Hatching.flac
+SHA1-Digest: qz0SIMgNST/L/MUHgat/8a44mLg=
+
+Name: system/media/audio/media/audio/ringtones/MorningSunshine.ogg
+SHA1-Digest: RmPZloX55Kd6t4Lg7AnJcbRg1Po=
+
+Name: system/media/audio/notifications/Alloy.flac
+SHA1-Digest: Hp18F229X1tYtlYFfgg5uDh3MUo=
+
+Name: system/media/audio/alarms/GetUp.ogg
+SHA1-Digest: biXfQqdQuO1wKqzOqetWQp/WKe4=
+
+Name: system/media/audio/alarms/Palette.flac
+SHA1-Digest: +920tSLtTf2psHrAIPDDAdh/tcA=
+
+Name: system/media/audio/media/audio/ringtones/Tandayapa.ogg
+SHA1-Digest: mt5i3jc0NlGyLnLHlrTsYCXpzF8=
+
+Name: system/media/audio/ringtones/Freedom.ogg
+SHA1-Digest: ijNuXirATlo+kevw1oNZMYss13o=
+
+Name: system/media/audio/media/audio/ringtones/Beats.ogg
+SHA1-Digest: XmsvID9FX9opf7lqWbiAoi6rPDA=
+
+Name: system/media/audio/media/audio/alarms/MorningBird.ogg
+SHA1-Digest: ezA3bj1osR5CKQGbkzuCEpQnM0Q=
+
+Name: system/media/audio/media/audio/ringtones/Pointillist.flac
+SHA1-Digest: 8QoEehGd1FYU8qLzpvsvTWOU1Wc=
+
+Name: system/fonts/GoogleSans-Italic.ttf
+SHA1-Digest: uSuYOlOBArp/zRwUlpSDDazHgPs=
+
+Name: system/media/audio/alarms/spring.ogg
+SHA1-Digest: 0bSa1JtIgOj9+Qb34eZqIiNUPlc=
+
+Name: system/media/audio/media/audio/notifications/Nib.flac
+SHA1-Digest: ZD9x5rELaW3z+ZS+20DvgDqLkIY=
+
+Name: system/fonts/NotoColorEmoji.ttf
+SHA1-Digest: reOxJ5QuxeG5HUxJYMYeqKPU5hc=
+
+Name: system/media/audio/ringtones/Zen.ogg
+SHA1-Digest: LqbOgg0I1SkCg3BHKiY44UxKVzM=
+
+Name: system/media/audio/ringtones/Memory.ogg
+SHA1-Digest: 9lzeexEsxs3WfRVkogupXWlb0Iw=
+
+Name: system/media/audio/media/audio/alarms/Sway.ogg
+SHA1-Digest: MTL8y1F4qn9/hBv24nYZ8X9fLUc=
+
+Name: system/media/audio/media/audio/ringtones/Leaps_and_bounds.ogg
+SHA1-Digest: yq9WBMsFQxugIUf4Nur2FJ37NuQ=
+
+Name: system/media/audio/media/audio/ringtones/innocence.ogg
+SHA1-Digest: Gm4zGIqBtGjHd0OI7PWW4lpSwy0=
+
+Name: system/fonts/GoogleSans-BoldItalic.ttf
+SHA1-Digest: QZjbqDGFGzLV6WxiB/qBAnF+tJ0=
+
+Name: system/fonts/NotoSansSinhalaUI-Regular.otf
+SHA1-Digest: tgN8FJnt9LRnqK33gDTZXDaLgys=
+
+Name: system/fonts/NotoSansInscriptionalPahlavi-Regular.ttf
+SHA1-Digest: yborYxCFJYuhVa2LOXDOQWHe4FY=
+
+Name: system/fonts/NotoSansKannada-Bold.ttf
+SHA1-Digest: V3rxtyvgXYwWIYE2g8IoY8AvRl0=
+
+Name: system/fonts/NotoSerif-Italic.ttf
+SHA1-Digest: F/j23tgB5R+LMK54BH5bNIrIHtY=
+
+Name: system/media/audio/media/audio/alarms/Bright_morning.ogg
+SHA1-Digest: XgKl95aK5J3PQn8O3MSXfqkmqbk=
+
+Name: system/fonts/NotoSansMyanmarUI-Bold.ttf
+SHA1-Digest: PTgWSrNDxJ3K7xQEby7vkZQksUM=
+
+Name: system/media/audio/media/audio/notifications/Gauge.flac
+SHA1-Digest: 9CEiVTd/cYHE6lk3OIFsgUfxIKs=
+
+Name: system/media/audio/ringtones/Aquatint.flac
+SHA1-Digest: 8tmFuorhJ3u40G5/CDveyyQRlMs=
+
+Name: system/media/audio/media/audio/ringtones/Raindrops.ogg
+SHA1-Digest: m1bXisSbWJrfl1MPYAv1RRblRyk=
+
+Name: system/media/audio/media/audio/ringtones/Ferrule.flac
+SHA1-Digest: 61ECTgZyG/8unh55Z+OUL+tipao=
+
+Name: system/media/audio/media/audio/ringtones/Barkana.ogg
+SHA1-Digest: Xse7j8zZZOOY0j30Fb84uVvFFmk=
+
+Name: system/fonts/NotoSansHebrew-Regular.ttf
+SHA1-Digest: Gb6FTiZYhRnalC7Mu26J0ijTYPs=
+
+Name: system/media/audio/media/audio/alarms/spring.ogg
+SHA1-Digest: 0bSa1JtIgOj9+Qb34eZqIiNUPlc=
+
+Name: system/media/audio/media/audio/notifications/Gallatin.ogg
+SHA1-Digest: vlj0RPDgSJtCD1lX7f25Y455JnA=
+
+Name: system/media/audio/media/audio/notifications/Flute.ogg
+SHA1-Digest: rsw63ynANdhi9rY6KUd5zypFAnY=
+
+Name: system/fonts/Roboto-Medium.ttf
+SHA1-Digest: NXOW9WO9//MacfNCxLCDvQ2QHEs=
+
+Name: system/fonts/GoogleSans-Regular.ttf
+SHA1-Digest: O3Ptfjs8+vxOwaRL0j6RMZO8GJM=
+
+Name: system/media/audio/media/audio/alarms/Beep.ogg
+SHA1-Digest: GroEbNjcEUXLR9qievN5r1G2Snk=
+
+Name: system/media/audio/media/audio/ringtones/Titanite.flac
+SHA1-Digest: 8Q44umU7ObQREFakr8RZ3iKIDmU=
+
+Name: system/fonts/NotoSansThaana-Bold.ttf
+SHA1-Digest: XMJzRA4lWhjXUiK9OqBuBKCV9JA=
+
+Name: system/app/Downloader/Downloader.apk
+SHA1-Digest: SrGEZof89x6dfju1p6jvnqrmw6I=
+
+Name: system/media/audio/ringtones/Raindrops.ogg
+SHA1-Digest: m1bXisSbWJrfl1MPYAv1RRblRyk=
+
+Name: system/media/audio/media/audio/ringtones/Privat_Paula.mp3
+SHA1-Digest: 1SXqaa5qW93Iq3yOqrDl1TVgcw8=
+
+Name: system/fonts/NotoNaskhArabic-Bold.ttf
+SHA1-Digest: /ufeW4LbhsHGrwZucfBlw+IW4sE=
+
+Name: system/media/audio/media/audio/notifications/Flying.ogg
+SHA1-Digest: imy4nQjxHLT09Y9eRES08AxAEAM=
+
+Name: system/media/audio/alarms/Encaustic.flac
+SHA1-Digest: /Zncgtre7orZvCOnO9WbPTdy+Ds=
+
+Name: system/media/audio/notifications/Manu.ogg
+SHA1-Digest: bu0l9n0O/YBIuG4FyihWP6lls7Q=
+
+Name: system/media/audio/media/audio/notifications/Mystery.ogg
+SHA1-Digest: n7BL9gcGyCEaPtmDUmfWn+8eVXE=
+
+Name: system/media/audio/media/audio/ringtones/Huron.ogg
+SHA1-Digest: SgF90QvtZNdkqrpOPhRxgFhMD6I=
+
+Name: system/fonts/DancingScript-Regular.ttf
+SHA1-Digest: EphoajUQ213Jmhpzhy4EVBEqYm4=
+
+Name: system/media/audio/media/audio/alarms/TickTack.ogg
+SHA1-Digest: Xurywv4xct1IZY+/9XCi2F2odpk=
+
+Name: system/fonts/NotoSansTagbanwa-Regular.ttf
+SHA1-Digest: 184kTRBzh3dXDe+PkzhNHWLzQo8=
+
+Name: system/media/audio/media/audio/notifications/silent.ogg
+SHA1-Digest: wkfhgJ1Na3jTXEj5P2tok18L6Vg=
+
+Name: system/media/audio/ringtones/Barkana.ogg
+SHA1-Digest: Xse7j8zZZOOY0j30Fb84uVvFFmk=
+
+Name: system/fonts/NotoSansJavanese-Regular.ttf
+SHA1-Digest: yx8nztOor52JLcJ2XV1BSQMokTw=
+
+Name: system/media/audio/media/audio/alarms/Encaustic.flac
+SHA1-Digest: /Zncgtre7orZvCOnO9WbPTdy+Ds=
+
+Name: system/media/audio/media/audio/notifications/Fresh.ogg
+SHA1-Digest: RIqEgMoupokXMb1ZS1s7Bz0SzQc=
+
+Name: system/fonts/NotoSansMeeteiMayek-Regular.ttf
+SHA1-Digest: cLQZr4qHhSqu/OycJBCKHK3/SnY=
+
+Name: system/fonts/RobotoCondensed-Italic.ttf
+SHA1-Digest: CHb29wvn+sF//reSfJmJVRVbz/M=
+
+Name: system/media/audio/media/audio/alarms/Drip.ogg
+SHA1-Digest: 9RhnI43fXkCHKx9TYtYQx0HAnJw=
+
+Name: system/media/audio/media/audio/ringtones/Mash_up.ogg
+SHA1-Digest: D79HOynGDqUF4ZBlmgIe8etq09w=
+
+Name: system/media/audio/notifications/Frog.ogg
+SHA1-Digest: WPfOe0161cMAjIQKPGguvThVbWQ=
+
+Name: system/media/audio/media/audio/notifications/Graphite.flac
+SHA1-Digest: H5t/G1vl5dW77eLCuBdJ+ucQnXM=
+
+Name: system/media/audio/alarms/interesting.ogg
+SHA1-Digest: XTwSXvnU61UgqkFkNhPwLe9Lq88=
+
+Name: system/etc/security/cacerts/5a060201.0
+SHA1-Digest: UW47aXh+9rWm39H8CdGJT0IrV/Y=
+
+Name: system/media/audio/media/audio/notifications/Ligature.flac
+SHA1-Digest: /lPrpOWMDTbhneXkRRM8M3J5teA=
+
+Name: system/media/audio/notifications/Note.ogg
+SHA1-Digest: qNchzrbeHTVzeS1jcCzHl0fgil4=
+
+Name: system/media/audio/media/audio/ui/LowBattery.ogg
+SHA1-Digest: e9GGvU5g+M95ogME75YBrvzsytU=
+
+Name: system/fonts/NotoSansLinearA-Regular.otf
+SHA1-Digest: M+iOt5NFmA4DAm+9ifZswH8BfR8=
+
+Name: system/media/audio/notifications/Grunting.ogg
+SHA1-Digest: 4WCPH1KnaOCfxRD77ypHzC3Jm6g=
+
+Name: system/media/audio/media/audio/ringtones/Monteverde.ogg
+SHA1-Digest: tSQCc9MkN+CDztQuKNyJoQnt1As=
+
+Name: system/media/audio/media/audio/notifications/Burst.ogg
+SHA1-Digest: IYd7rSWivlZM1c5QC6iZy2C5akk=
+
+Name: system/media/audio/ringtones/journey.ogg
+SHA1-Digest: Is9bjM5bU39MqBNF0Tlk/+fZ/B8=
+
+Name: system/media/audio/media/audio/alarms/Icicles.ogg
+SHA1-Digest: huOetshdq6p3dA8m+eKK/cmZYJE=
+
+Name: system/media/audio/media/audio/notifications/Tweeter.ogg
+SHA1-Digest: 3bvkZ6FIRgSrprn3gAlOdoojOmA=
+
+Name: system/media/audio/media/audio/notifications/Tuneup.ogg
+SHA1-Digest: iE1Sbzddh0ftYhxbSkYnK3vZ8ao=
+
+Name: system/fonts/NotoSansPhagsPa-Regular.ttf
+SHA1-Digest: gnoebYMn/HB9xSL9XUYp+liQh/w=
+
+Name: system/media/audio/alarms/Wag.ogg
+SHA1-Digest: 7fcfFhXFt653otMrmMQYnsQWKfI=
+
+Name: system/fonts/NotoSansOgham-Regular.ttf
+SHA1-Digest: sYfjXCZINLMAPNVXYBw/WlhodiE=
+
+Name: system/media/audio/ringtones/oneplus_tune.ogg
+SHA1-Digest: ElDtjFQPH4wrwDEVFa/Wn7JXFgg=
+
+Name: system/media/audio/notifications/Flute.ogg
+SHA1-Digest: rsw63ynANdhi9rY6KUd5zypFAnY=
+
+Name: system/media/audio/notifications/rhythm.ogg
+SHA1-Digest: 2RKVvf4u0d1KVZDA2GBBBdDO3Uw=
+
+Name: system/fonts/NotoSansGurmukhi-Bold.ttf
+SHA1-Digest: oaoCwTx9CqvSEEmlPeIZEWQkXpY=
+
+Name: system/media/audio/ringtones/Titanite.flac
+SHA1-Digest: 8Q44umU7ObQREFakr8RZ3iKIDmU=
+
+Name: system/fonts/NotoSansHanunoo-Regular.ttf
+SHA1-Digest: 4Iq4J1o9O9GBMjjVtjUkEJHKFsU=
+
+Name: system/media/audio/media/audio/notifications/ding.ogg
+SHA1-Digest: U70sFbNYhAleVwWcmPJmnkr7ycI=
+
+Name: system/media/audio/media/audio/ringtones/echo.ogg
+SHA1-Digest: 3iaMC3MrfVV1DJ1nOERtmW4a3u0=
+
+Name: system/fonts/NotoSansMalayalamUI-Regular.ttf
+SHA1-Digest: pH62Mo8iYva4qi5Nth3uJhqxDvE=
+
+Name: system/media/audio/ringtones/drum.ogg
+SHA1-Digest: cD9rBSHyzc01bhc0dWdmlmvERbw=
+
+Name: system/media/audio/media/audio/ringtones/Mix.ogg
+SHA1-Digest: xLamWmjesjiME9+5H+Tt2V/jLhY=
+
+Name: system/media/audio/ringtones/Volga.ogg
+SHA1-Digest: 2ZsaosM/nXSTTrG5aWh7+9Glqrk=
+
+Name: system/fonts/NotoSansDevanagari-Regular.ttf
+SHA1-Digest: 6vLau5+aN/oAlv63jkByQei/A4A=
+
+Name: system/media/audio/ringtones/game.ogg
+SHA1-Digest: 2T3UuKSykrBSYkEFUZ90g/k4Ovg=
+
+Name: system/fonts/NotoSansYi-Regular.ttf
+SHA1-Digest: NnG2rTV0HdV5N/VQTh7lwupz6Is=
+
+Name: system/media/audio/media/audio/ringtones/Luminol.flac
+SHA1-Digest: YGpYNPnZ/u9LVHvZVR0FULHcm/g=
+
+Name: system/media/audio/ringtones/Baobab.ogg
+SHA1-Digest: Nz26SkOJx9jqDS+S8Wuotmb92/w=
+
+Name: system/fonts/NotoSansNewa-Regular.otf
+SHA1-Digest: n3W+Mdc9gJKvV97ZFNIZ342r21U=
+
+Name: system/media/audio/notifications/Van.ogg
+SHA1-Digest: cAJ3o/rdX/Fy+AqJe8Jrwf/DU+I=
+
+Name: system/fonts/NotoSansCJK-Regular.ttc
+SHA1-Digest: LlvQW4Os8YzmcHzDZGq+QiCfd1Q=
+
+Name: system/media/audio/alarms/Gallop.ogg
+SHA1-Digest: hmIXF+8cBoycYF1GHnLVzcFZPC0=
+
+Name: system/media/audio/media/audio/alarms/A_real_hoot.ogg
+SHA1-Digest: xptZQENz0uDiIbdwFx/gvcekAbc=
+
+Name: system/media/audio/notifications/Knock.ogg
+SHA1-Digest: qVlPPuTO+3xOJ3G5JtDiYTFKAEM=
+
+Name: system/media/audio/media/audio/alarms/GoodLuck.ogg
+SHA1-Digest: u8KhGclakfB2wzlwczNJmzD4Mgw=
+
+Name: system/media/audio/media/audio/ui/Undock.ogg
+SHA1-Digest: sxGkx6OcDrtI6O8JzjqngvGx6sM=
+
+Name: system/media/audio/media/audio/ringtones/Bevel.flac
+SHA1-Digest: sVeQrKTS5rRNDgJJSXYD8443n7E=
+
+Name: system/media/audio/media/audio/notifications/Sticks_and_stones.o
+ gg
+SHA1-Digest: I6viLK3hcgLIPo/xNw+FeJENh8M=
+
+Name: system/media/audio/media/audio/ui/WirelessChargingStarted.ogg
+SHA1-Digest: 5b9QRkjuBJfssKlFmBo3M9RY9d0=
+
+Name: system/media/audio/notifications/Burst.ogg
+SHA1-Digest: IYd7rSWivlZM1c5QC6iZy2C5akk=
+
+Name: system/fonts/NotoSansBengaliUI-Bold.ttf
+SHA1-Digest: ax2o8O78rU0jkQ0LLuoYM47FOdQ=
+
+Name: system/fonts/NotoSansGothic-Regular.ttf
+SHA1-Digest: DAhzfinsWJVffT3959QZiESw5MY=
+
+Name: system/fonts/NotoSansOsage-Regular.ttf
+SHA1-Digest: Mb1BAQj+dS4NeG3MSGu7gbkHDiE=
+
+Name: system/media/audio/media/audio/ui/Unlock.ogg
+SHA1-Digest: Kgmeniq6lQ4gWCP5V+GqHJQmbz4=
+
+Name: system/fonts/NotoSansPalmyrene-Regular.otf
+SHA1-Digest: P1/QMop2dWUoAFCfjivNdB96fxY=
+
+Name: system/fonts/NotoSansDeseret-Regular.ttf
+SHA1-Digest: zoQj0tD+pMPHkNScKMKrDT0KQNc=
+
+Name: system/media/audio/media/audio/alarms/ClockBird.ogg
+SHA1-Digest: YyjtlVOybvIKeLFX8EGyFQYgn/g=
+
+Name: system/media/audio/media/audio/notifications/Arashiyama.ogg
+SHA1-Digest: whTGEwIv+0QN6OH5a8Aes4kzE1E=
+
+Name: system/media/audio/ringtones/Pointillist.flac
+SHA1-Digest: 8QoEehGd1FYU8qLzpvsvTWOU1Wc=
+
+Name: common/service.sh
+SHA1-Digest: CL/ipAMCv5HKYA2lPjYN+TApX6k=
+
+Name: system/fonts/NotoSansKayahLi-Regular.ttf
+SHA1-Digest: oRqDdb+3WjDlJQVMEmTej10Idk0=
+
+Name: system/media/audio/ringtones/Arno.ogg
+SHA1-Digest: PrUM0aLz/sef17JU1APB5lOev9o=
+
+Name: system/media/audio/media/audio/notifications/Chime.ogg
+SHA1-Digest: +Hy6Tsw+rwtxgGxVHYghjPcBtAk=
+
+Name: system/media/audio/ringtones/old_telephone.ogg
+SHA1-Digest: 564RxqY/RieLPNc9unzXyLzbwnQ=
+
+Name: system/media/audio/media/audio/notifications/Knock.ogg
+SHA1-Digest: qVlPPuTO+3xOJ3G5JtDiYTFKAEM=
+
+Name: system/media/audio/media/audio/ui/NFCTransferComplete.ogg
+SHA1-Digest: kz4/OY+GvYFMWgaxEcKYgIvkOS8=
+
+Name: system/media/audio/media/audio/notifications/Sagano.ogg
+SHA1-Digest: xWn/n9RoemeDMGpAgKpzJET0IbU=
+
+Name: system/media/audio/media/audio/ringtones/Orange.ogg
+SHA1-Digest: DkvLpqjp/7+tqTXWKOaHsgJpeGE=
+
+Name: system/media/audio/notifications/MessageIncoming.ogg
+SHA1-Digest: c+dHEryo1jV/u5rJaQ54g/n4j9s=
+
+Name: system/media/audio/media/audio/notifications/Van.ogg
+SHA1-Digest: cAJ3o/rdX/Fy+AqJe8Jrwf/DU+I=
+
+Name: system/media/audio/notifications/Fresh.ogg
+SHA1-Digest: RIqEgMoupokXMb1ZS1s7Bz0SzQc=
+
+Name: system/media/audio/alarms/leisurely.ogg
+SHA1-Digest: 26aXTp3qzLsvbbiniZoCpaFqQjk=
+
+Name: system/media/audio/alarms/Flow.ogg
+SHA1-Digest: Cbaw7I8JejqVHqIVmE9HwbjGG+8=
+
+Name: system/fonts/NotoSerif-BoldItalic.ttf
+SHA1-Digest: 9+e9+y7yDqCyPDhoRpDEGufsisU=
+
+Name: system/media/audio/media/audio/notifications/illumine.ogg
+SHA1-Digest: Zyoajl5bYsjxro3ouapDa8i9STE=
+
+Name: system/media/audio/media/audio/notifications/DingDong.ogg
+SHA1-Digest: 24zaD0w/nkmJJiDVax6OVnjYeww=
+
+Name: system/media/audio/ringtones/Beats.ogg
+SHA1-Digest: XmsvID9FX9opf7lqWbiAoi6rPDA=
+
+Name: system/media/audio/alarms/Intaglio.flac
+SHA1-Digest: sItOk9fNlSri5DtywGnkbz//S48=
+
+Name: system/media/audio/media/audio/notifications/Highlands.ogg
+SHA1-Digest: ppbQ7FimtsyC6kwXhWaVMuUIZF0=
+
+Name: system/fonts/NotoSansMandaic-Regular.ttf
+SHA1-Digest: YeCxytDk3wCif6w4OYtwUA8iCjg=
+
+Name: system/fonts/Roboto-MediumItalic.ttf
+SHA1-Digest: xiWqDTlKbtLJulfSbV6BJFvBFu0=
+
+Name: system/fonts/NotoSansThai-Bold.ttf
+SHA1-Digest: 7a1PbTgWLuysRUU1t89hdTpKuvE=
+
+Name: system/media/audio/ringtones/MorningBreeze.ogg
+SHA1-Digest: 14h7YCyaYC/0ixStmTvzXgwSqK0=
+
+Name: system/fonts/RobotoCondensed-Light.ttf
+SHA1-Digest: r29erhgLovp5OAjgZbYX7Vs6Kns=
+
+Name: system/media/audio/media/audio/notifications/joyful.ogg
+SHA1-Digest: deZMkFfsjQcRHO1OdHtlL8XJp7I=
+
+Name: system/media/audio/media/audio/notifications/Spring.ogg
+SHA1-Digest: PZ4txeW+67VTz2yQeP7+2ltyYCM=
+
+Name: system/media/audio/media/audio/ringtones/Tongass.ogg
+SHA1-Digest: SPaLUz/JjgwMtGJMFlBfpRNESow=
+
+Name: system/fonts/NotoSansCarian-Regular.ttf
+SHA1-Digest: ZS0Xd7gbhwh6DkqUZYgLo2sgrno=
+
+Name: system/media/audio/ringtones/MorningStreamlet.ogg
+SHA1-Digest: sqI4WpKGPuJPmE4GvipMjwLluTA=
+
+Name: system/media/audio/ringtones/Mezzotint.flac
+SHA1-Digest: /x+A9TQhKX8Jycmd4Gzs8uuyuvI=
+
+Name: system/media/audio/notifications/Crater.ogg
+SHA1-Digest: nuqHm6mDG+/Lp5Nc1lsOBclV/vs=
+
+Name: system/media/audio/media/audio/ringtones/Monkey_around.ogg
+SHA1-Digest: Din4d19yQDdTYkm91DzOy3BCGDM=
+
+Name: system/etc/fonts.xml
+SHA1-Digest: fvdeJtPQqiQhBUNfTOuDe6pS698=
+
+Name: system/media/audio/media/audio/notifications/Sundarbans.ogg
+SHA1-Digest: 2uLA3CXH67Rfd9B0hOc5PgbzHQY=
+
+Name: system/fonts/NotoSansOldPersian-Regular.ttf
+SHA1-Digest: XMpJATZvoEkA5o5JMEams5EbAQo=
+
+Name: system/media/audio/media/audio/alarms/dream.ogg
+SHA1-Digest: V5oB4uqIyY+BsA0F8gglyctBpq0=
+
+Name: system/media/audio/ringtones/dynamic.ogg
+SHA1-Digest: H1pK/essC16ZdIZjVPkF1EqfQDY=
+
+Name: system/fonts/NotoSansLydian-Regular.ttf
+SHA1-Digest: il/O+zt5TqpwykdrjByMVfrO62Y=
+
+Name: system/media/audio/alarms/Bricolage.flac
+SHA1-Digest: CH6Y/5YpflrVTQnWnUalAC9IuBY=
+
+Name: system/media/audio/ringtones/LeisureTime.ogg
+SHA1-Digest: PRtcTZfQhu+VNemkEAjwjLhqQxU=
+
+Name: system/media/audio/notifications/ElectronBeam.ogg
+SHA1-Digest: poxkkEaFYUzEGT/yOfoF6lk4uMg=
+
+Name: system/media/audio/media/audio/notifications/Mallet.ogg
+SHA1-Digest: oxNBVBGw17IQCfpkWZecFZFaYb4=
+
+Name: system/media/audio/ringtones/pyxis.ogg
+SHA1-Digest: nZhS56qlnv/OUjG5A8+4PwpYbMo=
+
+Name: system/fonts/NotoSansTamil-Regular.ttf
+SHA1-Digest: xThVZtyCYvl7qLeA1qgKR7FeeA8=
+
+Name: system/media/audio/media/audio/alarms/Loose_change.ogg
+SHA1-Digest: xS6NNo3Vz5ekQV+L5Fre82GTQx4=
+
+Name: system/media/audio/media/audio/notifications/End_note.ogg
+SHA1-Digest: YjXXcCGtsdRaXttaqvnW0vOobao=
+
+Name: system/fonts/NotoSansSyriacEastern-Regular.ttf
+SHA1-Digest: ag0FSXalUQk7NkzoDhPtw/vXZZw=
+
+Name: system/fonts/NotoSansBhaiksuki-Regular.otf
+SHA1-Digest: YBn/1Liwpy8ePBkBnSvCyAt6t+g=
+
+Name: system/media/audio/alarms/Amber.flac
+SHA1-Digest: /Ps0DtS1nWYJbJ0++JNTs4oC5FY=
+
+Name: system/media/audio/ringtones/Emulsify.flac
+SHA1-Digest: ao70sY4AnZEwWGwWSbQKDy46SUE=
+
+Name: system/media/audio/media/audio/notifications/Cognate.flac
+SHA1-Digest: TPJ2/+MTxgzfTsRf61QvqJm89QY=
+
+Name: system/fonts/NotoSansKannadaUI-Bold.ttf
+SHA1-Digest: rZNXETR8MFt+gCEhyCK8AYXLNzU=
+
+Name: system/media/audio/media/audio/ringtones/expect.ogg
+SHA1-Digest: 5hrWofV9WGxtkiKzcQwkcf31fZw=
+
+Name: system/media/audio/notifications/quickly.ogg
+SHA1-Digest: 1r18CFC9bX4Ur9j6yA59PjgEO3g=
+
+Name: system/media/audio/media/audio/notifications/Sherwood.ogg
+SHA1-Digest: HXjBFofg1mMNCg7aJJG2uhap4uw=
+
+Name: system/media/audio/media/audio/notifications/Bubble.ogg
+SHA1-Digest: VefPYE+KXRUSjJmS0BM4d1Vbl4w=
+
+Name: system/media/audio/media/audio/ringtones/Memory.ogg
+SHA1-Digest: 9lzeexEsxs3WfRVkogupXWlb0Iw=
+
+Name: system/media/audio/media/audio/ringtones/oneplus_tune_rhythm.ogg
+SHA1-Digest: JQMajiMBB0f+LDQDVeDzCw8BrPY=
+
+Name: system/media/audio/media/audio/alarms/flyer.ogg
+SHA1-Digest: Yl5RSPu2asW+A1oI8r1eOZKlbVo=
+
+Name: system/media/audio/alarms/Signifier.flac
+SHA1-Digest: v1+GCCRfjEY+flC+psUJes2PYeI=
+
+Name: system/media/audio/media/audio/alarms/Nudge.ogg
+SHA1-Digest: nLivtiRWmlnY4XHNCrQ6zJ1JFb0=
+
+Name: system/media/audio/media/audio/notifications/Coconuts.ogg
+SHA1-Digest: YREToOk5SP7UYFUwGP2flumsS5A=
+
+Name: system/fonts/NotoSansMro-Regular.otf
+SHA1-Digest: eW0mFpIUXtqjPXq9CuUjYfWDxLA=
+
+Name: system/fonts/GoogleSans-Medium.ttf
+SHA1-Digest: KCevRALuZYyBmqIALDaDY1n9cZM=
+
+Name: system/fonts/NotoSansTamilUI-Bold.ttf
+SHA1-Digest: gFnY+PhcZLpJQw9OZAtQ/+zy0bA=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: W9c/DllxnfxrlloMGo5ef2mC+dc=
+
+Name: system/media/audio/media/audio/notifications/Beginning.ogg
+SHA1-Digest: a3J7bj7gn6MJxubhRFRr64V1QnA=
+
+Name: system/media/audio/media/audio/alarms/GoodNewDay.ogg
+SHA1-Digest: yoVFtNvEF7FILR2XrJjoW+ICs/s=
+
+Name: system/media/audio/media/audio/alarms/Amber.flac
+SHA1-Digest: /Ps0DtS1nWYJbJ0++JNTs4oC5FY=
+
+Name: system/media/audio/media/audio/ringtones/MiXylophone.ogg
+SHA1-Digest: oMkPeED1BBltqPvrpAi7YQsYz+Q=
+
+Name: system/media/audio/ringtones/optimistic.ogg
+SHA1-Digest: pZra/bE6GpIVFVXZC2Nz2KMnaGQ=
+
+Name: system/media/audio/media/audio/notifications/Harp.ogg
+SHA1-Digest: QcKFBluBltMbmM6AuaAmv3s8AcI=
+
+Name: system/media/audio/media/audio/alarms/journey.ogg
+SHA1-Digest: b6i9weQB1YvzQP3RrRi/CYXVtP8=
+
+Name: system/media/audio/media/audio/notifications/amiable.ogg
+SHA1-Digest: SS5NRKt7p839YtjZzmhVYJUGU5U=
+
+Name: system/media/audio/media/audio/ringtones/Thinker.ogg
+SHA1-Digest: 3iO9IV5bKo4eQM5rLpJOxckxIUo=
+
+Name: system/media/audio/media/audio/ui/VideoRecord.ogg
+SHA1-Digest: Tr/RPoCODcxpqp/S5n31l43xswk=
+
+Name: system/media/audio/media/audio/alarms/Cuckoo_clock.ogg
+SHA1-Digest: eb9so7EJNHJNPmY0v0YrtNsbvHs=
+
+Name: system/media/audio/notifications/Clink.ogg
+SHA1-Digest: IwIEu4S4BpegEgjz7/+NGqPB8MQ=
+
+Name: system/media/audio/media/audio/ringtones/Yangtze.ogg
+SHA1-Digest: plR66vubzxbDB3NtawfyI3voz3g=
+
+Name: system/media/audio/media/audio/notifications/Bezel.flac
+SHA1-Digest: VGIH75zCJ+gtpS71Lv/V4RyvM34=
+
+Name: system/media/audio/media/audio/ringtones/Otway.ogg
+SHA1-Digest: S7HZuzRxC0K3SCEC9YmLI1KmDEw=
+
+Name: system/media/audio/notifications/Bubble.ogg
+SHA1-Digest: VefPYE+KXRUSjJmS0BM4d1Vbl4w=
+
+Name: system/media/audio/media/audio/notifications/Duet.ogg
+SHA1-Digest: lzHJvFgka5mdobo69DxtX7qwRvo=
+
+Name: system/media/audio/media/audio/ui/Lock.ogg
+SHA1-Digest: kDJznI2ynMwXYySED/5tFJB1dWo=
+
+Name: system/media/audio/notifications/Hudson.ogg
+SHA1-Digest: ZuWSEafaNgMSWCt13Zf9jO9y7SM=
+
+Name: system/media/audio/ringtones/Hey_hey.ogg
+SHA1-Digest: tt9Z+yA2t7rJ1lZvr5eRWHuNJdk=
+
+Name: system/fonts/NotoSansGeorgian-Regular.ttf
+SHA1-Digest: 7X3BTidpaCCl0sPYiEvi3JqgLh8=
+
+Name: system/media/audio/media/audio/notifications/Clink.ogg
+SHA1-Digest: IwIEu4S4BpegEgjz7/+NGqPB8MQ=
+
+Name: system/media/audio/alarms/alarm_clock5.ogg
+SHA1-Digest: tXsTH5iJNJf2sn91ywwQ763ZnfY=
+
+Name: system/fonts/Roboto-Thin.ttf
+SHA1-Digest: e1R8+HOUa+kRrtxeu01jBnjnlo8=
+
+Name: system/media/audio/notifications/Guitar.ogg
+SHA1-Digest: nf7Zk2Co/HZmbbwwqOKiarmjvko=
+
+Name: system/media/audio/media/audio/ringtones/Emulsify.flac
+SHA1-Digest: ao70sY4AnZEwWGwWSbQKDy46SUE=
+
+Name: system/fonts/GoogleSans-MediumItalic.ttf
+SHA1-Digest: FT9d6gF1OU1NFFoGm42WHNJVMLo=
+
+Name: system/fonts/NotoSansEgyptianHieroglyphs-Regular.ttf
+SHA1-Digest: SzbDpadW0ZyiYwXw7T8Ka1Zh7mY=
+
+Name: system/media/audio/media/audio/notifications/Obscura.flac
+SHA1-Digest: jWqSc/elm6OGjQvo3Q1DbJMyCBM=
+
+Name: system/media/audio/media/audio/alarms/Flow.ogg
+SHA1-Digest: Cbaw7I8JejqVHqIVmE9HwbjGG+8=
+
+Name: system/media/audio/notifications/BlowBubble.ogg
+SHA1-Digest: QWPgINt3XvK49Hti+x5Jo8zBP3E=
+
+Name: system/media/audio/alarms/Calx.flac
+SHA1-Digest: 1vkj9bgPqYKMsessvmTg1PNY57g=
+
+Name: system/media/audio/media/audio/ui/camera_focus.ogg
+SHA1-Digest: ul9rDkq85+2tzZCazMl7qVODLo4=
+
+Name: system/media/audio/media/audio/ringtones/Crackle.ogg
+SHA1-Digest: haNRoxnFUFh+lI+Pod1uwseb1+E=
+
+Name: system/media/audio/media/audio/notifications/Shopkeeper.ogg
+SHA1-Digest: hzS2HaEW+pTkPeDW5yTuydUnG0c=
+
+Name: system/media/audio/notifications/Ore.flac
+SHA1-Digest: PEyQYWJpUcM6Fgx68/UOkFFSSxE=
+
+Name: system/fonts/NotoSansBrahmi-Regular.ttf
+SHA1-Digest: /vzTWAa+4G1sferNrvTpt7tvdPs=
+
+Name: system/fonts/AndroidClock.ttf
+SHA1-Digest: wqIM7VYbtXQmSE2N5BNoF7Ttzfs=
+
+Name: system/fonts/NotoSansMyanmar-Bold.ttf
+SHA1-Digest: Yqbf06S1YLXJfDzNzQ1XqkB4jaw=
+
+Name: system/fonts/NotoSansTeluguUI-Regular.ttf
+SHA1-Digest: LVZBEOfr+2jD5cPVrY9fCRVV15A=
+
+Name: system/fonts/NotoSansMyanmar-Regular.ttf
+SHA1-Digest: E2ahVcUMfC942A2WqblUPwYmG/s=
+
+Name: system/media/audio/notifications/Bialowieza.ogg
+SHA1-Digest: vzEJXM/tI60mfoYwIrsyBg71OxU=
+
+Name: system/fonts/NotoSansRejang-Regular.ttf
+SHA1-Digest: o2CP0IbRJxihRxKbMEmcrwp6kwQ=
+
+Name: system/media/audio/media/audio/notifications/naivety.ogg
+SHA1-Digest: xycQZOogAzouv5HTKo6kcrof6JQ=
+
+Name: system/fonts/NotoSansTaiTham-Regular.ttf
+SHA1-Digest: ia4v/I+RQvh/l87uglYmu4DJfas=
+
+Name: system/media/audio/notifications/Birdsong.ogg
+SHA1-Digest: 12j8L4O39Fd0/YtEH1U3Ig6r1Nc=
+
+Name: system/fonts/NotoSansTelugu-Bold.ttf
+SHA1-Digest: Q8LxNC8/AM5y1TWKIx4+pGqxX9s=
+
+Name: system/fonts/Roboto-BlackItalic.ttf
+SHA1-Digest: lLzHCQMe66bucXylINcKJEayMy0=
+
+Name: system/media/audio/ringtones/Ferrule.flac
+SHA1-Digest: 61ECTgZyG/8unh55Z+OUL+tipao=
+
+Name: system/fonts/Roboto-ThinItalic.ttf
+SHA1-Digest: kLC0GV7TAsH+k2l9DPCGOLHucQI=
+
+Name: system/fonts/NotoSansArmenian-Regular.ttf
+SHA1-Digest: IVJDW10DAHMKqEZVQcHKBFJvXCA=
+
+Name: system/media/audio/ringtones/Sikkim.ogg
+SHA1-Digest: S1C+69Vl7y7sEmaaedKQT239zT8=
+
+Name: system/media/audio/media/audio/ringtones/Deadpool.mp3
+SHA1-Digest: nLbLGwymQG4ApX/+e6cLAhm+Ne0=
+
+Name: system/fonts/NotoSansGujarati-Regular.ttf
+SHA1-Digest: YoX/2I9/MCUW1g7V+qB5Jj1V8ew=
+
+Name: system/media/audio/media/audio/alarms/Orbit.ogg
+SHA1-Digest: ZvoSfRmBSVQp2WtY4YxJVx2uYwc=
+
+Name: system/media/audio/ringtones/Humbolt.ogg
+SHA1-Digest: lUpFnlmX+UF72j8OPfjhN6tHdHo=
+
+Name: system/media/audio/notifications/Enzyme.flac
+SHA1-Digest: vylDc3yB0GMqjnsq5F3dZOQwEtQ=
+
+Name: system/media/audio/ringtones/Quarry.flac
+SHA1-Digest: JH/GGgBSQhLxciu/SxMQ5g2O1iI=
+
+Name: system/media/audio/media/audio/alarms/ripple.ogg
+SHA1-Digest: 3g4Pcr8gBp1tY/I/XZCYrCaDDHg=
+
+Name: system/media/audio/media/audio/notifications/OpenBottle.ogg
+SHA1-Digest: 720LLBRSvNqtd5tL66S9VYrWykM=
+
+Name: system/media/audio/media/audio/ringtones/MorningStreamlet.ogg
+SHA1-Digest: sqI4WpKGPuJPmE4GvipMjwLluTA=
+
+Name: system/fonts/NotoSansAdlam-Regular.ttf
+SHA1-Digest: VJD+izY9+/si/hdWS5yfsiGkNh8=
+
+Name: system/media/audio/media/audio/alarms/Palette.flac
+SHA1-Digest: +920tSLtTf2psHrAIPDDAdh/tcA=
+
+Name: system/media/audio/media/audio/ringtones/IceWorldPiano.ogg
+SHA1-Digest: aeSzoI5zeUQyAhuKc2pxJP8e8LE=
+
+Name: system/media/audio/media/audio/ui/audio_initiate.ogg
+SHA1-Digest: 0FUUmzFa+uduJtVEFch2PQoa4Qc=
+
+Name: system/media/audio/media/audio/ringtones/Hotline.ogg
+SHA1-Digest: WWHl2mKIryHv+zLLp+VucZxWHj0=
+
+Name: system/media/audio/media/audio/notifications/Gentle_gong.ogg
+SHA1-Digest: xK2ViVlTtTKO85uBvH+DxkSEtVY=
+
+Name: system/media/audio/media/audio/ringtones/Romance.ogg
+SHA1-Digest: 1MLz42GVgBEXzZFOhkoFSsCUnZ8=
+
+Name: system/media/audio/alarms/Burnish.flac
+SHA1-Digest: 2bq2sWKfVhQqArFyWwz0cTFFLmM=
+
+Name: system/fonts/NotoSansSymbols-Regular-Subsetted.ttf
+SHA1-Digest: NiQIj8TYSkx2K3G6dUBofHKdQv0=
+
+Name: system/fonts/CutiveMono.ttf
+SHA1-Digest: 5IN/IddYHD8EGKArK+3xWQnfdWk=
+
+Name: system/media/audio/media/audio/alarms/Rolling_fog.ogg
+SHA1-Digest: oTd3Edzagi9oCbq+yyooxKdxU74=
+
+Name: system/fonts/ComingSoon.ttf
+SHA1-Digest: pvxNnnM5x9nG3ZuZSgDkqWXJHfQ=
+
+Name: system/fonts/NotoSansBamum-Regular.ttf
+SHA1-Digest: HhDwhw7HgKnqtZ2Y3XnRJqTzQ3A=
+
+Name: system/media/audio/media/audio/notifications/Ore.flac
+SHA1-Digest: PEyQYWJpUcM6Fgx68/UOkFFSSxE=
+
+Name: system/media/audio/media/audio/ringtones/Allegheny.ogg
+SHA1-Digest: nrgrO2vqpIhTfdiD9AmpqNDYzLQ=
+
+Name: system/media/audio/media/audio/notifications/gallop.ogg
+SHA1-Digest: ykh/zSzRo3C48JnKSUkJ1jAA2NY=
+
+Name: system/fonts/NotoSansTelugu-Regular.ttf
+SHA1-Digest: fjmjVXvP4NtMNUDioPc0w2XphhY=
+
+Name: system/media/audio/media/audio/ringtones/cyclotron.ogg
+SHA1-Digest: rYxjTz2F7+5vYSya57mc7IDX6hI=
+
+Name: system/fonts/NotoSansSyriacEstrangela-Regular.ttf
+SHA1-Digest: dS9TlLiwNRm6BYPMkmSQBz2mKIg=
+
+Name: system/fonts/NotoSansDevanagariUI-Bold.ttf
+SHA1-Digest: WZprpM0qFKMFCNlRo8roViV0IyY=
+
+Name: system/fonts/NotoSansHebrew-Bold.ttf
+SHA1-Digest: w+YVLeqqIFjkmoYrckHMocPFBXc=
+
+Name: system/fonts/NotoSansDevanagari-Bold.ttf
+SHA1-Digest: Zg01shy9Mb2/mpXArf9R2x5M/fM=
+
+Name: system/fonts/DroidSansMono.ttf
+SHA1-Digest: C3VgH4744RG6u27RHeZXP3F4zkQ=
+
+Name: system/media/audio/alarms/alarm_clock4.ogg
+SHA1-Digest: OrLN0q3/xKJTF5BDf/zIHeYoQl4=
+
+Name: system/media/audio/notifications/Gila.ogg
+SHA1-Digest: 7sBKxLG+FJumTA00QXGB8drrIk8=
+
+Name: system/media/audio/media/audio/alarms/ClassicAlarm.ogg
+SHA1-Digest: Nscf3EODxQuJbsBIBWvaZWrUa2o=
+
+Name: system/media/audio/media/audio/alarms/SunshineForest.ogg
+SHA1-Digest: Dqhd1rF0Ivws/0iydia5m4NJrHY=
+
+Name: system/fonts/NotoSansSoraSompeng-Regular.otf
+SHA1-Digest: jlnKL7K7waoBUy+Au1ZVPfyr4PY=
+
+Name: system/fonts/NotoSansTamil-Bold.ttf
+SHA1-Digest: 0zgdt+g1XdMBJ0flhBeAvpx9d60=
+
+Name: system/media/audio/media/audio/ringtones/Childhood.ogg
+SHA1-Digest: /sCKXCB56RzNWUfIOc0Wfd9bVR8=
+
+Name: system/fonts/NotoSansInscriptionalParthian-Regular.ttf
+SHA1-Digest: hIzjA1PM1QxT+ZoEbIS0K+at4D8=
+
+Name: system/fonts/NotoSansAvestan-Regular.ttf
+SHA1-Digest: 6kf5COlL3xDTkVdsl82EljegvPA=
+
+Name: system/media/audio/media/audio/alarms/alarm_clock5.ogg
+SHA1-Digest: tXsTH5iJNJf2sn91ywwQ763ZnfY=
+
+Name: system/media/audio/notifications/Sprue.flac
+SHA1-Digest: oBsjMF6mmzZf8ER9x1ZO+VbNG6Y=
+
+Name: system/media/bootanimation.zip
+SHA1-Digest: gUr2g4nMItF6JNA/cxHZk/8+KRc=
+
+Name: system/media/audio/media/audio/alarms/interesting.ogg
+SHA1-Digest: XTwSXvnU61UgqkFkNhPwLe9Lq88=
+
+Name: system/media/audio/media/audio/ringtones/drum.ogg
+SHA1-Digest: cD9rBSHyzc01bhc0dWdmlmvERbw=
+
+Name: system/media/audio/alarms/Drip.ogg
+SHA1-Digest: 9RhnI43fXkCHKx9TYtYQx0HAnJw=
+
+Name: system/media/audio/media/audio/ringtones/Summer_night.ogg
+SHA1-Digest: 4Pb3y5QCf5/DumJr5paAs6kwTqc=
+
+Name: system/media/audio/media/audio/notifications/MessageComplete.ogg
+SHA1-Digest: S+H8qOBKfz4oQpremhF46DE1qy0=
+
+Name: system/fonts/NotoSansMarchen-Regular.otf
+SHA1-Digest: CC7NvPDT4rxdZAT1A/Cil4h0K3Y=
+
+Name: system/media/audio/alarms/flyer.ogg
+SHA1-Digest: Yl5RSPu2asW+A1oI8r1eOZKlbVo=
+
+Name: system/media/audio/notifications/Kootenai.ogg
+SHA1-Digest: 0osyedCRgkpDoPCw/0VBcJT8Chs=
+
+Name: system/fonts/NotoSansKhmerUI-Regular.ttf
+SHA1-Digest: bki/ZcTO4loWEv9YOnZsT5L+I9k=
+
+Name: system/media/audio/ringtones/MorningSunshine.ogg
+SHA1-Digest: RmPZloX55Kd6t4Lg7AnJcbRg1Po=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: system/fonts/NotoSansGujarati-Bold.ttf
+SHA1-Digest: JaIeDPfdVsHkIfa3SPWHICFaDDw=
+
+Name: system/media/audio/ringtones/Luminol.flac
+SHA1-Digest: YGpYNPnZ/u9LVHvZVR0FULHcm/g=
+
+Name: system/fonts/NotoSansTamilUI-Regular.ttf
+SHA1-Digest: E3IHlnNLf8AdPMzE2+Zd2wp6BME=
+
+Name: system/media/audio/ringtones/Spaceship.ogg
+SHA1-Digest: +Dr9DWkJ1a+/Po9fthrjlrA5fbM=
+
+Name: system/media/audio/media/audio/notifications/Diode.flac
+SHA1-Digest: j6yajB94rDWZ2tvWgESZ4QlpRLs=
+
+Name: system/media/audio/media/audio/ringtones/The_big_adventure.ogg
+SHA1-Digest: H8rJaMPcSEFURGafrUMRPXv5QDg=
+
+Name: system/media/audio/media/audio/notifications/vastness.ogg
+SHA1-Digest: cD5kYizaRJcVbQuqcqd2nxA4fu0=
+
+Name: system/media/audio/alarms/ClockBird.ogg
+SHA1-Digest: YyjtlVOybvIKeLFX8EGyFQYgn/g=
+
+Name: system/media/audio/media/audio/alarms/Sunshower.ogg
+SHA1-Digest: ivRZHFnVItl1htLUrbbAxnZ0eFs=
+
+Name: system/fonts/NotoSansCham-Regular.ttf
+SHA1-Digest: G7Rr4mBBJ8N3wvbOYWGY0N0TpJ4=
+
+Name: system/media/audio/media/audio/alarms/Signifier.flac
+SHA1-Digest: v1+GCCRfjEY+flC+psUJes2PYeI=
+
+Name: system/media/audio/notifications/MagicalDrug.ogg
+SHA1-Digest: k0YlRQRN0mYZpL9rvXs4eZSvxRw=
+
+Name: system/media/audio/ringtones/Mahanadi.ogg
+SHA1-Digest: ZQ0rj1pkNbfhjvApN1inKqqkAZw=
+
+Name: system/media/audio/media/audio/alarms/Rooster.ogg
+SHA1-Digest: jzFIq31/tjvlWPkUVr0Yv0rUYjo=
+
+Name: system/media/audio/media/audio/alarms/MorningSunShine.ogg
+SHA1-Digest: +rsDswxM7kWzqOwnnVb56ciE0HM=
+
+Name: system/media/audio/ringtones/Thinker.ogg
+SHA1-Digest: 3iO9IV5bKo4eQM5rLpJOxckxIUo=
+
+Name: system/fonts/NotoSansBengali-Bold.ttf
+SHA1-Digest: kVuUojDIGvvGqq/bQuRENngaV48=
+
+Name: system/media/audio/media/audio/ringtones/Glockenspiel.ogg
+SHA1-Digest: jBuCAx8PhfKrBnSNF9211WXHZGw=
+
+Name: system/media/audio/ringtones/Rrrring.ogg
+SHA1-Digest: o+JGaGtQJk3Z5jkGDaKQcczbiEI=
+
+Name: system/fonts/NotoSansTaiLe-Regular.ttf
+SHA1-Digest: 78bGZjl9MLq7UTMq2czc0qG+834=
+
+Name: system/media/audio/media/audio/alarms/GetUp.ogg
+SHA1-Digest: biXfQqdQuO1wKqzOqetWQp/WKe4=
+
+Name: system/media/audio/media/audio/ringtones/GuitarRetro.ogg
+SHA1-Digest: pFKIkULmmn8eGmhePkXEyp1P6D4=
+
+Name: system/media/audio/notifications/Mica.flac
+SHA1-Digest: WqL6FhWiqLDgT8XP5rxC7rYPbzA=
+
+Name: system/media/audio/alarms/Rise.ogg
+SHA1-Digest: RkjqTsZBROhsgVz8kL0sN517Xw4=
+
+Name: system/media/audio/media/audio/notifications/Expeller.flac
+SHA1-Digest: 4aeZpr/7otCb7np1vguJAmgk2LE=
+
+Name: system/media/audio/alarms/journey.ogg
+SHA1-Digest: b6i9weQB1YvzQP3RrRi/CYXVtP8=
+
+Name: system/media/audio/ringtones/cloud.ogg
+SHA1-Digest: ZQ8zCAUjCYliRw3ITB3PduwjUbQ=
+
+Name: system/fonts/NotoSansSinhala-Regular.ttf
+SHA1-Digest: hk8knNUsGsQeYUUG4A3UUIr6lZI=
+
+Name: system/media/audio/ringtones/MusicBox.ogg
+SHA1-Digest: 3ZGEWjliRl9hizsN2jgT8KmawSA=
+
+Name: system/media/audio/media/audio/ringtones/piano.ogg
+SHA1-Digest: rF1mF2rE6bfU1lHp9q1R4oQKl1c=
+
+Name: system/vendor/etc/gps.conf
+SHA1-Digest: nVja57HnQysGOVWfWWLLqWyVfMI=
+
+Name: system/vendor/etc/mixer_paths_tavil.xml
+SHA1-Digest: z5Mn4Db0jGnUP5X2OgYDuR9+C94=
+
+Name: system/media/audio/media/audio/ringtones/Loire.ogg
+SHA1-Digest: bdaBg6TfJPFVTG73Ljo0LufFLYI=
+
+Name: system/media/audio/media/audio/ringtones/Cottica.ogg
+SHA1-Digest: s2s3b8eVbPTAYir9VhciIfzjFn0=
+
+Name: system/fonts/NotoSansOriya-Regular.ttf
+SHA1-Digest: lOgWJ2+b1WpfAk4Qq2f/E+w2xpA=
+
+Name: system/media/audio/media/audio/notifications/Piano.ogg
+SHA1-Digest: wn/2+dPLN9Reldz73gebDGLONFs=
+
+Name: system/media/audio/notifications/CrystalRing.ogg
+SHA1-Digest: vw2H8JReIt8tjcDxIowSSulgNxg=
+
+Name: system/media/audio/media/audio/alarms/breeze.ogg
+SHA1-Digest: ioqQ/djK7XUsHbxSVZ0u8oDJzRY=
+
+Name: system/media/audio/ringtones/Niagara.ogg
+SHA1-Digest: 8YEr7BsZrH7tKh6xhMANgY6jNTs=
+
+Name: system/media/audio/notifications/FadeIn.ogg
+SHA1-Digest: cR0OWVhfaAPJQ58vDlNOC80XYmI=
+
+Name: system/fonts/NotoSansOriyaUI-Bold.ttf
+SHA1-Digest: 6P9D6EN4H4s8tkSBWOa67JV8yZA=
+
+Name: system/fonts/NotoSansSyriacWestern-Regular.ttf
+SHA1-Digest: cWx9XNcndNgJKcatiaTQzZPh/HY=
+
+Name: system/media/audio/media/audio/ringtones/fluent.ogg
+SHA1-Digest: LouGa9tqPhrwXga4M6yE+++2iOM=
+
+Name: system/media/audio/media/audio/notifications/penetrate.ogg
+SHA1-Digest: r8kCeyUjynZDo/R0aH6M356D954=
+
+Name: system/media/audio/media/audio/ringtones/Humbolt.ogg
+SHA1-Digest: lUpFnlmX+UF72j8OPfjhN6tHdHo=
+
+Name: system/fonts/NotoSansBengali-Regular.ttf
+SHA1-Digest: AYR8nGVHm939du7hLne8IbBKNIE=
+
+Name: system/media/audio/alarms/MorningBird.ogg
+SHA1-Digest: ezA3bj1osR5CKQGbkzuCEpQnM0Q=
+
+Name: system/media/audio/media/audio/ringtones/Tarkan_Beni_Cok_Sev.mp3
+SHA1-Digest: ZG68AUN/o/WJKtNE7e6UFlaWpYc=
+
+Name: system/fonts/NotoSansPhoenician-Regular.ttf
+SHA1-Digest: u1UuwrLixD6m1+rgSyVzGAY6BSA=
+
+Name: system/media/audio/media/audio/ringtones/Baobab.ogg
+SHA1-Digest: Nz26SkOJx9jqDS+S8Wuotmb92/w=
+
+Name: system/media/audio/media/audio/ringtones/Envelop.flac
+SHA1-Digest: A8QT0OQAijYlJ5c5svgwClcLBAo=
+
+Name: system/media/audio/media/audio/notifications/Strum.ogg
+SHA1-Digest: Ej/lcCxgJU3NkDWmko8lWiMIkXs=
+
+Name: system/media/audio/ringtones/Mix.ogg
+SHA1-Digest: xLamWmjesjiME9+5H+Tt2V/jLhY=
+
+Name: system/media/audio/media/audio/ringtones/Quarry.flac
+SHA1-Digest: JH/GGgBSQhLxciu/SxMQ5g2O1iI=
+
+Name: system/media/audio/media/audio/notifications/BlowBubble.ogg
+SHA1-Digest: QWPgINt3XvK49Hti+x5Jo8zBP3E=
+
+Name: system/fonts/NotoSansArmenian-Bold.ttf
+SHA1-Digest: cwyQWUVF9wVojLkj2tawY7PGMc0=
+
+Name: system/media/audio/media/audio/ringtones/Navy_Alarm.mp3
+SHA1-Digest: qvA9DHDNVr2BK11bUcolXGBO04w=
+
+Name: system/media/audio/media/audio/ui/KeypressSpacebar.ogg
+SHA1-Digest: 3L6iaJF6Lqf+rbPR59EtDYF3xRk=
+
+Name: system/media/audio/notifications/Pastel.flac
+SHA1-Digest: cYeFsK6j/KYk4UYEHE/zNFoXtyo=
+
+Name: system/fonts/NotoSansDevanagariUI-Regular.ttf
+SHA1-Digest: JH7o4jcVjSqCfmwKvJOHCy6/0Gg=
+
+Name: system/media/audio/ringtones/Clinker.flac
+SHA1-Digest: QWk+mpcHiu+bKQT8rjYgEY/tUFU=
+
+Name: system/fonts/NotoSansSharada-Regular.otf
+SHA1-Digest: F03fedrvTwDFZAU8L+me3Uj7V2U=
+
+Name: system/media/audio/media/audio/ringtones/MorningBreeze.ogg
+SHA1-Digest: 14h7YCyaYC/0ixStmTvzXgwSqK0=
+
+Name: system/media/audio/ringtones/Orange.ogg
+SHA1-Digest: DkvLpqjp/7+tqTXWKOaHsgJpeGE=
+
+Name: system/media/audio/media/audio/ringtones/Coral.ogg
+SHA1-Digest: mCD1pgCa4Iz8G63yqMfkLDhnfuw=
+
+Name: system/media/audio/ringtones/GuitarRetro.ogg
+SHA1-Digest: pFKIkULmmn8eGmhePkXEyp1P6D4=
+
+Name: system/media/audio/alarms/Daydream.ogg
+SHA1-Digest: xIcrU622Eq4WIRnTHiZ1OoaaIyU=
+
+Name: system/media/audio/media/audio/alarms/Simulacrum.flac
+SHA1-Digest: 7wfJxAOgSO3LS91iaVzmd88081g=
+
+Name: system/media/audio/notifications/Brushstroke.flac
+SHA1-Digest: y8CMSW0GPpVgDiZy8oIzM9Rc7Rc=
+
+Name: system/fonts/NotoSansThaiUI-Bold.ttf
+SHA1-Digest: QisiC8kpTIRHPGuBuVwHp/vawbY=
+
+Name: system/fonts/NotoSansTeluguUI-Bold.ttf
+SHA1-Digest: +ChUT9fcmJnWoXUcegAymnLERe4=
+
+Name: system/media/audio/media/audio/ringtones/old_telephone.ogg
+SHA1-Digest: 564RxqY/RieLPNc9unzXyLzbwnQ=
+
+Name: system/media/audio/media/audio/ringtones/quiet.ogg
+SHA1-Digest: +KO3ghNNlggiuNPkOvCH0vTKHQo=
+
+Name: system/media/audio/notifications/Hey.ogg
+SHA1-Digest: vvWIAL9mnUzH5oFLfc6PXooHMf4=
+
+Name: system/fonts/NotoSansTifinagh-Regular.ttf
+SHA1-Digest: 6XXgNL/saGyPrQ9pm1wjZPfzffg=
+
+Name: system/media/audio/notifications/Sagano.ogg
+SHA1-Digest: xWn/n9RoemeDMGpAgKpzJET0IbU=
+
+Name: system/media/audio/media/audio/ringtones/rotation.ogg
+SHA1-Digest: zp7exY1Eor6iiNlI4VFpui+L+is=
+
+Name: system/media/audio/notifications/penetrate.ogg
+SHA1-Digest: r8kCeyUjynZDo/R0aH6M356D954=
+
+Name: system/media/audio/media/audio/ringtones/Aquatint.flac
+SHA1-Digest: 8tmFuorhJ3u40G5/CDveyyQRlMs=
+
+Name: system/media/audio/media/audio/alarms/Armature.flac
+SHA1-Digest: EkPmtE9YDeogBLcQAITR5hVP2wQ=
+
+Name: system/media/audio/media/audio/ringtones/Dance_party.ogg
+SHA1-Digest: ErzmcZokHbGQH3nFHtEQXHNeeuM=
+
+Name: system/media/audio/media/audio/alarms/Bricolage.flac
+SHA1-Digest: CH6Y/5YpflrVTQnWnUalAC9IuBY=
+
+Name: system/fonts/NotoSansLinearB-Regular.ttf
+SHA1-Digest: lgQm1OOj6EQuBN03ELoIA+dqXps=
+
+Name: system/media/audio/notifications/Chime.ogg
+SHA1-Digest: +Hy6Tsw+rwtxgGxVHYghjPcBtAk=
+
+Name: system/fonts/NotoSansSinhala-Bold.ttf
+SHA1-Digest: Qnr93Q4dSJudzKSo0WM/KtmIaPQ=
+
+Name: system/fonts/NotoSansTibetan-Bold.ttf
+SHA1-Digest: Eyaxr/6wM4OmDxCf9dvZi8yvcWo=
+
+Name: system/media/audio/alarms/the_wind.ogg
+SHA1-Digest: 4aAedUNHVv5mN1YQj22/vsCqPFg=
+
+Name: system/media/audio/ringtones/Cottica.ogg
+SHA1-Digest: s2s3b8eVbPTAYir9VhciIfzjFn0=
+
+Name: system/media/audio/notifications/Flying.ogg
+SHA1-Digest: imy4nQjxHLT09Y9eRES08AxAEAM=
+
+Name: system/fonts/NotoSansNKo-Regular.ttf
+SHA1-Digest: 4RU9dJakNB829J+bfBVVEyYn0vM=
+
+Name: system/media/audio/ringtones/marimba.ogg
+SHA1-Digest: K7Qk19IVsopiF2cGIiRlBCKRf1Y=
+
+Name: system/media/audio/ringtones/innocence.ogg
+SHA1-Digest: Gm4zGIqBtGjHd0OI7PWW4lpSwy0=
+
+Name: system/media/audio/notifications/illumine.ogg
+SHA1-Digest: Zyoajl5bYsjxro3ouapDa8i9STE=
+
+Name: system/media/audio/ringtones/Huron.ogg
+SHA1-Digest: SgF90QvtZNdkqrpOPhRxgFhMD6I=
+
+Name: system/media/audio/media/audio/alarms/Gouache.flac
+SHA1-Digest: OaL6sr7UWuKRz91gCYY7HDiHF2Y=
+
+Name: system/media/audio/notifications/Berezina.ogg
+SHA1-Digest: UEqqrYYLx4OF05Kum5BZzMPOsNQ=
+
+Name: system/media/audio/ringtones/Tandayapa.ogg
+SHA1-Digest: mt5i3jc0NlGyLnLHlrTsYCXpzF8=
+
+Name: system/media/audio/alarms/GoodLuck.ogg
+SHA1-Digest: u8KhGclakfB2wzlwczNJmzD4Mgw=
+
+Name: system/fonts/NotoSansSundanese-Regular.ttf
+SHA1-Digest: 7OY41vA4WUAVYNKcknA7FYwRWLk=
+
+Name: system/media/audio/ringtones/expect.ogg
+SHA1-Digest: 5hrWofV9WGxtkiKzcQwkcf31fZw=
+
+Name: system/media/audio/notifications/Cycle.flac
+SHA1-Digest: CJoNIoA+JxPAj95YNegZk9w24uU=
+
+Name: system/media/audio/alarms/SunshineForest.ogg
+SHA1-Digest: Dqhd1rF0Ivws/0iydia5m4NJrHY=
+
+Name: system/fonts/NotoSansOriya-Bold.ttf
+SHA1-Digest: lj6r6vQ8yzQLyutJFwvR8B80nMs=
+
+Name: system/fonts/NotoSansUgaritic-Regular.ttf
+SHA1-Digest: 1GGWzHFYpua8K0belCyvJX6dZpo=
+
+Name: system/fonts/NotoSansGujaratiUI-Bold.ttf
+SHA1-Digest: xRRDgl3yvhakUEyJs/5z7mPMd+Y=
+
+Name: system/fonts/NotoSansOldNorthArabian-Regular.otf
+SHA1-Digest: bmP60BEewIxCxdi/MJC2L+y09GY=
+
+Name: module.prop
+SHA1-Digest: BB7f5Kfe2nCtnYFUixeyYKhqj1E=
+
+Name: system/fonts/RobotoCondensed-MediumItalic.ttf
+SHA1-Digest: QwnhDCQ0GrCk1T7CWmX17nQBEDU=
+
+Name: system/media/audio/media/audio/ringtones/Volga.ogg
+SHA1-Digest: 2ZsaosM/nXSTTrG5aWh7+9Glqrk=
+
+Name: system/fonts/NotoSansHatran-Regular.otf
+SHA1-Digest: GHRnCsKuVgOioZiA9ZeXRae+IKY=
+
+Name: system/fonts/NotoSansShavian-Regular.ttf
+SHA1-Digest: 2m+gFJ7KLD/b7Rz2CTCseKxYcy0=
+
+Name: system/media/audio/ringtones/Platte.ogg
+SHA1-Digest: /2AA5dTt6eLfgqayR4OydgMcgZc=
+
+Name: system/media/audio/media/audio/alarms/walking_in_the_rain.ogg
+SHA1-Digest: R9hta+8HFqh3tPOTtxrBJ8S3nj8=
+
+Name: system/media/audio/media/audio/ringtones/Victoria.ogg
+SHA1-Digest: nCOuRowZqCcKCL5bZjUlRxnSQPw=
+
+Name: system/media/audio/notifications/DingDong.ogg
+SHA1-Digest: 24zaD0w/nkmJJiDVax6OVnjYeww=
+
+Name: system/media/audio/media/audio/notifications/Krajna.ogg
+SHA1-Digest: Zofofb8l4dwIOf91a+iJIyaRMHI=
+
+Name: system/media/audio/ringtones/brisk.ogg
+SHA1-Digest: vWEXlMmaa+aSvSEN4fzN4eOZDsc=
+
+Name: system/media/audio/media/audio/ringtones/Chitrakote.ogg
+SHA1-Digest: P3fb3c/QF4QSt9ppWUxuIqexT2Y=
+
+Name: system/media/audio/notifications/light.ogg
+SHA1-Digest: InvgHxgl4weIDu07+lLakbWSFvc=
+
+Name: system/media/audio/media/audio/notifications/Pastel.flac
+SHA1-Digest: cYeFsK6j/KYk4UYEHE/zNFoXtyo=
+
+Name: system/media/audio/media/audio/alarms/Dammar.flac
+SHA1-Digest: pflVPa3rFlm/wRDswXly3Yer6Cg=
+
+Name: system/media/audio/media/audio/alarms/Awaken.ogg
+SHA1-Digest: 5oSq5+VvvARDTR+Zp2g7H5jqw5Q=
+
+Name: system/media/audio/media/audio/alarms/MorningSun.ogg
+SHA1-Digest: nGOTZIL9NxHAe3ydhyds5BtsmmU=
+
+Name: system/fonts/DroidSans-Bold.ttf
+SHA1-Digest: pOtBnpBz73nGjxgHkGvUFxXe+64=
+
+Name: system/media/audio/notifications/gallop.ogg
+SHA1-Digest: ykh/zSzRo3C48JnKSUkJ1jAA2NY=
+
+Name: system/media/audio/ringtones/Chitrakote.ogg
+SHA1-Digest: P3fb3c/QF4QSt9ppWUxuIqexT2Y=
+
+Name: system/media/audio/media/audio/ringtones/Hey_hey.ogg
+SHA1-Digest: tt9Z+yA2t7rJ1lZvr5eRWHuNJdk=
+
+Name: system/media/audio/media/audio/alarms/Rise.ogg
+SHA1-Digest: RkjqTsZBROhsgVz8kL0sN517Xw4=
+
+Name: system/media/audio/media/audio/ringtones/funky.ogg
+SHA1-Digest: 3vfouEi4QvhZlh2gKTt65zm4I+w=
+
+Name: system/media/audio/notifications/CrystalPiano.ogg
+SHA1-Digest: UJJIFTXpFESIlwPRA6lVG2BSUZ8=
+
+Name: system/media/audio/media/audio/ringtones/Flutterby.ogg
+SHA1-Digest: g32TJ7Uy3S4fjSCODMaozPa9TKQ=
+
+Name: system/media/audio/media/audio/ringtones/Sabeline.flac
+SHA1-Digest: wiBzIOgdTWvKEIhsQGpL4UbFj9s=
+
+Name: system/media/audio/ringtones/Yangtze.ogg
+SHA1-Digest: plR66vubzxbDB3NtawfyI3voz3g=
+
+Name: system/fonts/NotoSansRunic-Regular.ttf
+SHA1-Digest: CYhw71TacWokmGfA6+r+6oOhiy4=
+
+Name: system/media/audio/media/audio/notifications/Cycle.flac
+SHA1-Digest: CJoNIoA+JxPAj95YNegZk9w24uU=
+
+Name: system/media/audio/media/audio/notifications/Twinkle.ogg
+SHA1-Digest: ym2u1C5hstM4AAt9ENIQoVR1Aj0=
+
+Name: system/media/audio/notifications/Krajna.ogg
+SHA1-Digest: Zofofb8l4dwIOf91a+iJIyaRMHI=
+
+Name: system/media/audio/ringtones/Dance_party.ogg
+SHA1-Digest: ErzmcZokHbGQH3nFHtEQXHNeeuM=
+
+Name: common/system.prop
+SHA1-Digest: sIh114cWaSH7yh2KzdYy23rTNek=
+
+Name: system/media/audio/ringtones/Romance.ogg
+SHA1-Digest: 1MLz42GVgBEXzZFOhkoFSsCUnZ8=
+
+Name: system/media/audio/notifications/Paloemeu.ogg
+SHA1-Digest: MDvJ3g3RxeiifhBon7W2CuFw/gs=
+
+Name: system/media/audio/media/audio/ringtones/Zen.ogg
+SHA1-Digest: LqbOgg0I1SkCg3BHKiY44UxKVzM=
+
+Name: system/media/audio/media/audio/ui/Dock.ogg
+SHA1-Digest: Ot0g0Zak3rgRfhv/nOnYDPvIJNs=
+
+Name: system/fonts/NotoSansVai-Regular.ttf
+SHA1-Digest: y4UB9Wi1FSGTTjTEeII1U05fbIo=
+
+Name: system/media/audio/media/audio/ringtones/journey.ogg
+SHA1-Digest: Is9bjM5bU39MqBNF0Tlk/+fZ/B8=
+
+Name: system/fonts/NotoSansCypriot-Regular.ttf
+SHA1-Digest: Woc+d7tTGVxYfSn9wr5OX7G0x7Y=
+
+Name: system/media/audio/media/audio/notifications/surprise.ogg
+SHA1-Digest: d8OhwH7XRTZLYC0z5EXjRi4sEPY=
+
+Name: system/media/audio/media/audio/ringtones/Rhine.ogg
+SHA1-Digest: unkwNkN/1nMAtlfRqAdb4FOntsY=
+
